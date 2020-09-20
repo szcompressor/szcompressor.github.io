@@ -1,1 +1,8 @@
+title: Open and Transparent Lossy Compression Framework
+logo: figure/sz-logo.jpg
+show_downloads: false
+description: The official website of SZ lossy compression framework project.
+google_analytics:
 theme: jekyll-theme-minimal
+github:
+  is_project_page: true
