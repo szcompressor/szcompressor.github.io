@@ -11,9 +11,9 @@ The current structure of the SZ framework is represented by the following hierar
 ![SZ_Family_Tree](https://user-images.githubusercontent.com/5705572/91900477-9ab1b680-ec53-11ea-97bf-5cab7f2c6877.jpg)
 
 ## News
-- 09/21/2020: [cuSZ-0.1](https://github.com/szcompressor/DeepSZ/releases/download/0.1/cuSZ-0.1.tar.gz) has been released. 
-- 09/04/2020: [QCAT-1.0](https://github.com/szcompressor/qcat/releases/download/1.0/qcat-1.0.tar.gz) has been released. 
-- 08/24/2020: [DeepSZ-0.1](https://github.com/szcompressor/DeepSZ/releases/download/0.1/DeepSZ-0.1.tar.gz) has been released.
+- 09/21/2020: [cuSZ-0.1](https://github.com/szcompressor/cuSZ/releases/download/v0.1/cuSZ-0.1.tar.gz) has been released. 
+- 09/04/2020: [QCAT-1.0](https://github.com/szcompressor/qcat/releases/download/v1.0/qcat-1.0.tar.gz) has been released. 
+- 08/24/2020: [DeepSZ-0.1](https://github.com/szcompressor/DeepSZ/releases/download/v0.1/DeepSZ-0.1.tar.gz) has been released.
 - 07/31/2020: [SZ-2.1.9](https://github.com/szcompressor/SZ/releases/download/v2.1.9/sz-2.1.9.0.tar.gz) has been released.
 - 07/15/2020: Our [cuSZ paper](https://arxiv.org/abs/2007.09625) has been accepted by PACT'20.
 
