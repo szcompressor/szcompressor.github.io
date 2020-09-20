@@ -12,6 +12,7 @@ The current structure of the SZ framework is represented by the following hierar
 
 ## News
 - 09/21/2020: [cuSZ-0.1](https://github.com/szcompressor/DeepSZ/releases/download/0.1/cuSZ-0.1.tar.gz) has been released. 
+- 09/04/2020: [QCAT-1.0](https://github.com/szcompressor/qcat/releases/download/1.0/qcat-1.0.tar.gz) has been released. 
 - 08/24/2020: [DeepSZ-0.1](https://github.com/szcompressor/DeepSZ/releases/download/0.1/DeepSZ-0.1.tar.gz) has been released.
 - 07/31/2020: [SZ-2.1.9](https://github.com/szcompressor/SZ/releases/download/v2.1.9/sz-2.1.9.0.tar.gz) has been released.
 - 07/15/2020: Our [cuSZ paper](https://arxiv.org/abs/2007.09625) has been accepted by PACT'20.
@@ -21,6 +22,7 @@ The current structure of the SZ framework is represented by the following hierar
 - SZ (CPU version): [https://github.com/szcompressor](https://github.com/szcompressor).
 - cuSZ (GPU version): [https://github.com/szcompressor/cuSZ](https://github.com/szcompressor/cuSZ). 
 - DeepSZ (variant for DNN models): [https://github.com/szcompressor/DeepSZ](https://github.com/szcompressor/DeepSZ).
+- QCAT (Quick Compression Analysis Toolkit): [https://github.com/szcompressor/qcat](https://github.com/szcompressor/qcat).
 
 ## Team
 ### Core-group
@@ -28,7 +30,7 @@ The current structure of the SZ framework is represented by the following hierar
 [Dr. Franck Cappello](https://www.anl.gov/profile/franck-cappello), [Dr. Sheng Di](https://www.mcs.anl.gov/~shdi/), [Dr. Ali Murat Gok](https://www.anl.gov/profile/ali-murat-gok)
 
 #### Washington State University
-[Dr. Dingwen Tao](https://www.dingwentao.com/), Jiannan Tian, Sian Jin, Cody Rivera (The University of Alabama)
+[Dr. Dingwen Tao](https://www.dingwentao.com/), Jiannan Tian, Cody Rivera, Sian Jin, Chengming Zhang
 
 #### University of California, Riverside
 [Dr. Xin Liang](https://www.cs.ucr.edu/~xlian007/), Kai Zhao, Sihuan Li, Jinyang Liu
@@ -37,7 +39,7 @@ The current structure of the SZ framework is represented by the following hierar
 [Dr. Jon Calhoun](http://jonccal.people.clemson.edu/), Robert Underwood
 
 ### Others
-[Dr. Martin Herbordt](http://people.bu.edu/herbordt/), Qingqing Xiong (Boston University)
+[Dr. Martin Herbordt](http://people.bu.edu/herbordt/) (Boston University), Qingqing Xiong (Boston University)
 
 ## Publication
 
