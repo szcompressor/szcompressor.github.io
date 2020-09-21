@@ -99,4 +99,4 @@ In case of questions and comments or help, please contact the SZ team at [szloss
 ## Acknowledgement
 SZ is supported by the [Exascale Computing Project (ECP)](https://www.exascaleproject.org/), Project Number: 17-SC-20-SC, a collaborative effort of two DOE organizations – the Office of Science and the National Nuclear Security Administration, responsible for the planning and preparation of a capable exascale ecosystem. It is also supported by the National Science Foundation (NSF) under Grants [CCF-1617488](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1617488), [CCF-1619253](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1619253), [OAC-2003709](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2003709), [OAC-1948447/2034169](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2034169), and [OAC-2003624/2042084](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042084).
 
-![acknowledgement](https://user-images.githubusercontent.com/5705572/91359921-58e3c480-e7aa-11ea-98ad-6a27645398cb.jpg)
+![sz-acknowledgement](https://user-images.githubusercontent.com/5705572/93790911-6abd5980-fbe8-11ea-9c8d-c259260c6295.jpg)
