@@ -26,17 +26,20 @@ The current structure of the SZ framework is represented by the following hierar
 
 ## Team
 ### Core-group
-#### Argonne National Laboratory
+#### (Lead) Argonne National Laboratory
 [Dr. Franck Cappello](https://www.anl.gov/profile/franck-cappello), [Dr. Sheng Di](https://www.mcs.anl.gov/~shdi/), [Dr. Ali Murat Gok](https://www.anl.gov/profile/ali-murat-gok)
 
 #### Washington State University
 [Dr. Dingwen Tao](https://www.dingwentao.com/), Jiannan Tian, Cody Rivera, Sian Jin, Chengming Zhang
 
 #### University of California, Riverside
-[Dr. Xin Liang](https://www.cs.ucr.edu/~xlian007/), Kai Zhao, Sihuan Li, Jinyang Liu
+Kai Zhao, Sihuan Li, Jinyang Liu
 
 #### Clemson Univerity
 [Dr. Jon Calhoun](http://jonccal.people.clemson.edu/), Robert Underwood
+
+### Researchers
+[Dr. Xin Liang](https://www.cs.ucr.edu/~xlian007/) (formely University of California, Riverside)
 
 ### Others
 [Dr. Martin Herbordt](http://people.bu.edu/herbordt/) (Boston University), Qingqing Xiong (Boston University)
