@@ -11,6 +11,7 @@ The current structure of the SZ framework is represented by the following hierar
 ![SZ_Family_Tree](https://user-images.githubusercontent.com/5705572/91900477-9ab1b680-ec53-11ea-97bf-5cab7f2c6877.jpg)
 
 ## News
+- 09/27/2020: [cuSZ-0.1.1](https://github.com/szcompressor/cuSZ/releases/download/v0.1.1/cuSZ-0.1.1.tar.gz) has been released. 
 - 09/21/2020: [cuSZ-0.1](https://github.com/szcompressor/cuSZ/releases/download/v0.1/cuSZ-0.1.tar.gz) has been released. 
 - 09/04/2020: [QCAT-1.0](https://github.com/szcompressor/qcat/releases/download/v1.0/qcat-1.0.tar.gz) has been released. 
 - 08/24/2020: [DeepSZ-0.1](https://github.com/szcompressor/DeepSZ/releases/download/v0.1/DeepSZ-0.1.tar.gz) has been released.
@@ -21,7 +22,7 @@ The current structure of the SZ framework is represented by the following hierar
 
 - SZ (CPU version): [https://github.com/szcompressor](https://github.com/szcompressor).
 - cuSZ (GPU version): [https://github.com/szcompressor/cuSZ](https://github.com/szcompressor/cuSZ). 
-- DeepSZ (variant for DNN models): [https://github.com/szcompressor/DeepSZ](https://github.com/szcompressor/DeepSZ).
+- DeepSZ (for DNN model): [https://github.com/szcompressor/DeepSZ](https://github.com/szcompressor/DeepSZ).
 - QCAT (Quick Compression Analysis Toolkit): [https://github.com/szcompressor/qcat](https://github.com/szcompressor/qcat).
 
 ## Team
@@ -39,10 +40,7 @@ Kai Zhao, Sihuan Li, Jinyang Liu
 [Dr. Jon Calhoun](http://jonccal.people.clemson.edu/), Robert Underwood
 
 ### Researchers
-[Dr. Xin Liang](https://www.cs.ucr.edu/~xlian007/) (formely University of California, Riverside)
-
-### Others
-[Dr. Martin Herbordt](http://people.bu.edu/herbordt/) (Boston University), Qingqing Xiong (Boston University)
+[Dr. Xin Liang](https://www.cs.ucr.edu/~xlian007/) (formely University of California, Riverside), [Dr. Martin Herbordt](http://people.bu.edu/herbordt/) (Boston University), Qingqing Xiong (Boston University)
 
 ## Publication
 
