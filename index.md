@@ -21,7 +21,8 @@ The current structure of the SZ framework is represented by the following hierar
 ## Software
 
 - SZ (CPU version): [https://github.com/szcompressor](https://github.com/szcompressor).
-- cuSZ (GPU version): [https://github.com/szcompressor/cuSZ](https://github.com/szcompressor/cuSZ). 
+- cuSZ (CUDA version): [https://github.com/szcompressor/cuSZ](https://github.com/szcompressor/cuSZ). 
+- kSZ (Kokkos version): [https://github.com/szcompressor/kokkosSZ](https://github.com/szcompressor/kokkosSZ).
 - DeepSZ (for DNN model): [https://github.com/szcompressor/DeepSZ](https://github.com/szcompressor/DeepSZ).
 - QCAT (Quick Compression Analysis Toolkit): [https://github.com/szcompressor/qcat](https://github.com/szcompressor/qcat).
 
