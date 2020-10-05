@@ -92,7 +92,7 @@ Kai Zhao, Sihuan Li, Jinyang Liu
 - [**TPDS**] Xiangyu Zou, Tao Lu, Wen Xia, Xuan Wang, Weizhe Zhang, Haijun Zhang, Sheng Di, Dingwen Tao, and Franck Cappello. "Performance Optimization for Relative-Error-Bounded Lossy Compression on Scientific Data." IEEE Transactions on Parallel and Distributed Systems 31, no. 7 (2020): 1665-1680.
 
 
-## Who are using SZ
+<!--## Who are using SZ
 
 | Software                                             | Institution            | Referece                                                                |
 |------------------------------------------------------|------------------------|-------------------------------------------------------------------------|
@@ -102,7 +102,7 @@ Kai Zhao, Sihuan Li, Jinyang Liu
 | XRHLIB (XHR file reader)                             | Alternative University | https://alternativeuniversity.net/compsci/raster/stor/xrhlib/           |
 | HDF5 (H5Z-SZ filter)                                 | HDF5 group             | https://support.hdfgroup.org/HDF5/                                      |
 | ADIOS2                                               | ORNL                   | https://github.com/ornladios/ADIOS2                                     |
-
+-->
 
 ## Contact Us
 In case of questions and comments or help, please contact the SZ team at [szlossycompressor@gmail.com](mailto:szlossycompressor@gmail.com).
