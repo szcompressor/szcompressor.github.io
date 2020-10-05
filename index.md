@@ -15,12 +15,12 @@ The current structure of the SZ framework is represented by the following hierar
 - 09/21/2020: [cuSZ-0.1](https://github.com/szcompressor/cuSZ/releases/download/v0.1/cuSZ-0.1.tar.gz) has been released. 
 - 09/04/2020: [QCAT-1.0](https://github.com/szcompressor/qcat/releases/download/v1.0/qcat-1.0.tar.gz) has been released. 
 - 08/24/2020: [DeepSZ-0.1](https://github.com/szcompressor/DeepSZ/releases/download/v0.1/DeepSZ-0.1.tar.gz) has been released.
-- 07/31/2020: [SZ-2.1.9](https://github.com/szcompressor/SZ/releases/download/v2.1.9/sz-2.1.9.0.tar.gz) has been released.
+- 10/05/2020: [SZ-2.1.10](https://github.com/szcompressor/SZ/releases/download/v2.1.10/sz-2.1.10.tar.gz) has been released.
 - 07/15/2020: Our [cuSZ paper](https://arxiv.org/abs/2007.09625) has been accepted by PACT'20.
 
 ## Software
 
-- SZ (CPU version): [https://github.com/szcompressor](https://github.com/szcompressor).
+- SZ (CPU version): [https://github.com/szcompressor](https://github.com/szcompressor/SZ).
 - cuSZ (CUDA version): [https://github.com/szcompressor/cuSZ](https://github.com/szcompressor/cuSZ). 
 - kSZ (Kokkos version): [https://github.com/szcompressor/kokkosSZ](https://github.com/szcompressor/kokkosSZ).
 - DeepSZ (for DNN model): [https://github.com/szcompressor/DeepSZ](https://github.com/szcompressor/DeepSZ).
@@ -90,6 +90,18 @@ Kai Zhao, Sihuan Li, Jinyang Liu
 - [**ICPP'20**] Zhenbo Hu, Xiangyu Zou, Wen Xia, Sian Jin, Dingwen Tao, Yang Liu, Weizhe Zhang, and Zheng Zhang. "Delta-DNN: Efficiently Compressing Deep Neural Networks via Exploiting Floats Similarity." In 49th International Conference on Parallel Processing (ICPP), Article 40, 1–12. ACM, 2020.
 - [**CLUSTER'20**] Sihuan Li, Sheng Di, Kai Zhao, Xin Liang, Zizhong Chen, and Franck Cappello. "Towards End-to-end SDC Detection for HPC Applications Equipped with Lossy Compression." In 2020 IEEE International Conference on Cluster Computing (CLUSTER). IEEE, 2019.
 - [**TPDS**] Xiangyu Zou, Tao Lu, Wen Xia, Xuan Wang, Weizhe Zhang, Haijun Zhang, Sheng Di, Dingwen Tao, and Franck Cappello. "Performance Optimization for Relative-Error-Bounded Lossy Compression on Scientific Data." IEEE Transactions on Parallel and Distributed Systems 31, no. 7 (2020): 1665-1680.
+
+
+## Who are using SZ
+
+| Software                                             | Institution            | Referece                                                                |
+|------------------------------------------------------|------------------------|-------------------------------------------------------------------------|
+| Software Stack in Division of Information Technology | university of maryland | http://devhpcc.umd.edu/devhpcc/help/software.html#swcat_DataCompression |
+| HACC cosmology simulation code                       | ECP Exasky project     | https://cosmology.alcf.anl.gov/                                         |
+| RTM waveform simulation                              | ARAMCO                 | -                                                                       |
+| XRHLIB (XHR file reader)                             | Alternative University | https://alternativeuniversity.net/compsci/raster/stor/xrhlib/           |
+| HDF5 (H5Z-SZ filter)                                 | HDF5 group             | https://support.hdfgroup.org/HDF5/                                      |
+| ADIOS2                                               | ORNL                   | https://github.com/ornladios/ADIOS2                                     |
 
 
 ## Contact Us
