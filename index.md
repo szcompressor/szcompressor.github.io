@@ -42,8 +42,8 @@ Kai Zhao, Sihuan Li, Jinyang Liu
 #### Missouri University of Science and Technology
 [Dr. Xin Liang](https://www.cs.ucr.edu/~xlian007/)
 
-### Researchers
-[Dr. Martin Herbordt](http://people.bu.edu/herbordt/) (Boston University), Qingqing Xiong (Boston University)
+### Other Contributors
+[Dr. Martin Herbordt](http://people.bu.edu/herbordt/), [Dr. Qingqing Xiong](https://www.linkedin.com/in/qingqing-xiong), [Dr. Wen Xia](https://cswxia.github.io/), [Xiangyu Zou](http://zouxy.info/about/)
 
 ## SZ Compression Ratio, Quality, and Speed
 
