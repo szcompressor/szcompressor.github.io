@@ -47,11 +47,7 @@ Kai Zhao, Sihuan Li, Jinyang Liu
 
 ## SZ Compression Ratio, Quality, and Speed
 
-SZ has excellent rate-distortion performance, or quality per bit of compressed storage. The below published figures show the compression quality and speed of SZ and other erorr-bounded lossy compressors. The figures show the compressed size in bits per value (higher is better), peak signal to noise ratio (PSNR) in decibels (higher is better), structural similarity (SSIM) index (higher is better), pearson correlation, and compression/decompression speed in uncompressed megabytes per second (higher is better). 
-
-### Rate-Distortion Comparison
-
-<img width="500" alt="rate-distortion-sz-zfp" src="https://user-images.githubusercontent.com/5705572/95693513-a2189800-0be1-11eb-82c9-f7e4ed8dca4f.png">
+SZ has excellent rate-distortion performance, or quality per bit of compressed storage. The below published figures show the compression quality and speed of SZ and other erorr-bounded lossy compressors. The figures show the compressed size in bits per value (higher is better), peak signal to noise ratio (PSNR) in decibels (higher is better), structural similarity (SSIM) index (higher is better), and compression/decompression speed in uncompressed megabytes per second (higher is better). 
 
 ### Data Quality Comparison (with Same Ratio)
 
@@ -61,16 +57,9 @@ SZ has excellent rate-distortion performance, or quality per bit of compressed s
 
 <img width="500" alt="distortion-hurricane-cloud" src="https://user-images.githubusercontent.com/5705572/95693413-16067080-0be1-11eb-88f3-8e920aef85e1.png">
 
-### Pearson Correlation Comparison
+### Rate-Distortion Comparison
 
-| fields              | SZ2.0       | SZ1.4       | ZFP         | Comp Ratio   |
-|---------------------|-------------|-------------|-------------|--------------|
-| dark matter density | 0.959274616 | 0.939890773 | 0.763353467 | 58:1         |
-| baryon density      | 0.999537914 | 0.986076774 | 0.999529095 | 66:1         |
-| temperature         | 0.992798653 | 0.870542883 | 0.995984391 | 66:1         |
-| velocity_x          | 0.999961851 | 0.996793357 | 0.999871972 | 70:1         |
-| velocity_y          | 0.999944697 | 0.997787266 | 0.999912867 | 70:1         |
-| velocity_z          | 0.999867946 | 0.992133964 | 0.999826937 | 63:1         |
+<img width="500" alt="rate-distortion-sz-zfp" src="https://user-images.githubusercontent.com/5705572/95693513-a2189800-0be1-11eb-82c9-f7e4ed8dca4f.png">
 
 ### Compression/Decompression Speed Comparison
 <img width="500" alt="speed-sz-cusz" src="https://user-images.githubusercontent.com/5705572/95693991-3c79db00-0be4-11eb-9523-d2152b6bc936.png">
