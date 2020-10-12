@@ -53,7 +53,7 @@ SZ has excellent rate-distortion performance, or quality per bit of compressed s
 
 <img width="500" alt="rate-distortion-sz-zfp" src="https://user-images.githubusercontent.com/5705572/95693513-a2189800-0be1-11eb-82c9-f7e4ed8dca4f.png">
 
-### Distortion (with Fixed Ratio) Comparison
+### Data Quality Comparison (with Same Ratio)
 
 <img width="500" alt="distortion-nyx-dark-matter" src="https://user-images.githubusercontent.com/5705572/95693406-0dae3580-0be1-11eb-9f05-0ce8b61dd9a2.png"> 
 
