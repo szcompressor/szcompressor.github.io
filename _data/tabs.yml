@@ -1,0 +1,40 @@
+#  The tab data.
+
+-
+  name: Home
+  icon: "fas fa-home"
+-
+  name: "News"
+  icon: "fas fa-info"
+  path: tabs
+  url: news
+-
+  name: "Software"
+  icon: "fas fa-info"
+  path: tabs
+  url: software
+-
+  name: "Team"
+  icon: "fas fa-info"
+  path: tabs
+  url: team
+-
+  name: "Performance"
+  icon: "fas fa-info"
+  path: tabs
+  url: performance
+-
+  name: "Publication"
+  icon: "fas fa-info"
+  path: tabs
+  url: publication
+-
+  name: "Contact us"
+  icon: "fas fa-info"
+  path: tabs
+  url: contact
+-
+  name: "Acknowledgement"
+  icon: "fas fa-info"
+  path: tabs
+  url: acknowledgement
