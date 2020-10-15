@@ -1,1 +1,1 @@
-## Github Repository for SZ Lossy Compressor Official Webpage
+Github Repository for SZ Lossy Compressor Official Webpage
