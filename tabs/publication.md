@@ -1,7 +1,7 @@
 ---
 title: Publication
 ---
-
+(including beyond the core group) 
 
 ### 2016
 - [**IPDPS'16**] Sheng Di and Franck Cappello. "Fast error-bounded lossy HPC data compression with SZ." In 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 730-739. IEEE, 2016.
@@ -48,4 +48,5 @@ title: Publication
 - [**ICPP'20**] Zhenbo Hu, Xiangyu Zou, Wen Xia, Sian Jin, Dingwen Tao, Yang Liu, Weizhe Zhang, and Zheng Zhang. "Delta-DNN: Efficiently Compressing Deep Neural Networks via Exploiting Floats Similarity." In 49th International Conference on Parallel Processing (ICPP), Article 40, 1–12. ACM, 2020.
 - [**CLUSTER'20**] Sihuan Li, Sheng Di, Kai Zhao, Xin Liang, Zizhong Chen, and Franck Cappello. "Towards End-to-end SDC Detection for HPC Applications Equipped with Lossy Compression." In 2020 IEEE International Conference on Cluster Computing (CLUSTER). IEEE, 2019.
 - [**TPDS**] Xiangyu Zou, Tao Lu, Wen Xia, Xuan Wang, Weizhe Zhang, Haijun Zhang, Sheng Di, Dingwen Tao, and Franck Cappello. "Performance Optimization for Relative-Error-Bounded Lossy Compression on Scientific Data." IEEE Transactions on Parallel and Distributed Systems 31, no. 7 (2020): 1665-1680.
+- [**TACO**] Eldstål-Ahrens, Albin, and Ioannis Sourdis. "MemSZ: Squeezing Memory Traffic with Lossy Compression." ACM Transactions on Architecture and Code Optimization (TACO) 17, no. 4 (2020): 1-25.
 
