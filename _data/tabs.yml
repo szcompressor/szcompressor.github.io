@@ -24,7 +24,7 @@
   path: tabs
   url: performance
 -
-  name: "Publication"
+  name: "Publications"
   icon: "fas fa-info"
   path: tabs
   url: publication
