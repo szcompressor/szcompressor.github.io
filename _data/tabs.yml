@@ -29,7 +29,7 @@
   path: tabs
   url: publication
 -
-  name: "Events"
+  name: "Event Organization"
   icon: "fas fa-info"
   path: tabs
   url: events
