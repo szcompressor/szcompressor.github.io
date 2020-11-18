@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Event Organization
 ---
 
 1. [International Workshop on Big Data Reduction (IWBDR) workshop](https://iwbdr.github.io/iwbdr20/)
