@@ -29,6 +29,11 @@
   path: tabs
   url: publication
 -
+  name: "Events"
+  icon: "fas fa-info"
+  path: tabs
+  url: events
+-
   name: "Contact us"
   icon: "fas fa-info"
   path: tabs
