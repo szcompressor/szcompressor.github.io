@@ -52,3 +52,7 @@ title: Publications
 - [**Neurocomputing**] Azar, Joseph, Abdallah Makhoul, Raphaël Couturier, and Jacques Demerjian. "Robust IoT Time Series Classification with Data Compression and Deep Learning." Neurocomputing (2020).
 - [**TACO**] Eldstål-Ahrens, Albin, and Ioannis Sourdis. "MemSZ: Squeezing Memory Traffic with Lossy Compression." ACM Transactions on Architecture and Code Optimization (TACO) 17, no. 4 (2020): 1-25.
 
+### 2021
+- - [**IPDPS'21**] Sian Jin, Cody Rivera, Sheng Di, Jieyang Chen, Xin Liang, Dingwen Tao, and Franck Cappello. "Revisiting Huffman Coding: Toward Extreme
+Performance on Modern GPU Architectures." In 2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS), to appear. IEEE, 2021.
+
