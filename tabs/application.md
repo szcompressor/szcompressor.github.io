@@ -2,9 +2,9 @@
 title: Application
 ---
 
-- <a href="#exafel" font-size="1.17em">EXAFEL</a>
-- <a href="#hacc" font-size="1.17em">HACC</a>
-- <a href="#nyx" font-size="1.17em">NYX</a> 
+- <a href="#exafel" font-size="1.5em">EXAFEL</a>
+- <a href="#hacc" font-size="1.5em">HACC</a>
+- <a href="#nyx" font-size="1.5em">NYX</a> 
 
 
 <div id="exafel"><h3>EXAFEL</h3></div>
