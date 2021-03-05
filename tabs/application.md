@@ -2,12 +2,12 @@
 title: Application
 ---
 
-- <a href="#exafel"><h3>EXAFEL</h3></a>
-- <a href="#hacc"><h3>HACC</h3></a>
-- <a href="#nyx"><h3>NYX</h3></a> 
+- <a href="#exafel" font-size="1.17em">EXAFEL</a>
+- <a href="#hacc" font-size="1.17em">HACC</a>
+- <a href="#nyx" font-size="1.17em">NYX</a> 
 
 
-<div id="exafel"><h3>EXAFEL</h2></div>
+<div id="exafel"><h3>EXAFEL</h3></div>
 The ExaFEL application aims at shrinking the X-ray Free Electron Laser data analysis timescale from weeks to minutes. Near real-time interpretation of molecular structure revealed by X-ray diffraction will require computational intensities of unprecedented scales, coupled to a datapath of unprecedented bandwidth. Detector data rates at light sources are advancing exponentially: the Linac Coherent Light Source (LCLS) will increase its data throughput by three orders of magnitude by 2025. Users of LCLS require an integrated combination of data processing and scientific interpretation, where both aspects demand intensive computational analysis. This analysis must be carried out quickly to allow users to iterate their experiments and extract the most value from scarce beam time. In this proposal we identify a grand challenge: Enabling new photon science from the LCLS will require near real-time analysis (~10 min) of data bursts, requiring burst computational intensities exceeding an exaflop. Achieving such turn around on the future, much larger, data sets using algorithms with higher fidelity than any facility can support today will require exascale resources.  Success will also require an inter-facility R&D partnership. As an end-to-end challenge problem, XFEL applications require significant orchestration of compute, network, and storage resources and present a model use case for ESnet R&D into network operating systems. Leveraging a successful existing collaboration between LCLS and NERSC we present a plan for LCLS to retain its global leadership role for FEL science while also broadening the impact of exascale in related data analysis workflows.
 
 <div id="hacc"><h3>HACC</h3></div>
