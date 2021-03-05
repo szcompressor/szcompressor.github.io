@@ -19,6 +19,11 @@
   path: tabs
   url: team
 -
+  name: "Application"
+  icon: "fas fa-info"
+  path: tabs
+  url: application
+-
   name: "Performance"
   icon: "fas fa-info"
   path: tabs
