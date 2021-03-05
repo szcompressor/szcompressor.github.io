@@ -2,16 +2,16 @@
 title: Application
 ---
 
-- [EXAFEL](#exafel)  
-- [HACC](#hacc)  
-- [NYX](#nyx)  
+- <a href="#exafel"><h3>EXAFEL</h3></a>
+- <a href="#hacc"><h3>HACC</h3></a>
+- <a href="#nyx"><h3>NYX</h3></a> 
 
 
-<div id="exafel">EXAFEL</div>
+<div id="exafel"><h3>EXAFEL</h2></div>
 The ExaFEL application aims at shrinking the X-ray Free Electron Laser data analysis timescale from weeks to minutes. Near real-time interpretation of molecular structure revealed by X-ray diffraction will require computational intensities of unprecedented scales, coupled to a datapath of unprecedented bandwidth. Detector data rates at light sources are advancing exponentially: the Linac Coherent Light Source (LCLS) will increase its data throughput by three orders of magnitude by 2025. Users of LCLS require an integrated combination of data processing and scientific interpretation, where both aspects demand intensive computational analysis. This analysis must be carried out quickly to allow users to iterate their experiments and extract the most value from scarce beam time. In this proposal we identify a grand challenge: Enabling new photon science from the LCLS will require near real-time analysis (~10 min) of data bursts, requiring burst computational intensities exceeding an exaflop. Achieving such turn around on the future, much larger, data sets using algorithms with higher fidelity than any facility can support today will require exascale resources.  Success will also require an inter-facility R&D partnership. As an end-to-end challenge problem, XFEL applications require significant orchestration of compute, network, and storage resources and present a model use case for ESnet R&D into network operating systems. Leveraging a successful existing collaboration between LCLS and NERSC we present a plan for LCLS to retain its global leadership role for FEL science while also broadening the impact of exascale in related data analysis workflows.
 
-<div id="hacc">HACC</div>
+<div id="hacc"><h3>HACC</h3></div>
 HACC (Hardware/Hybrid Accelerated Cosmology Code) is an extreme-scale cosmological simulation code that runs on all available supercomputing platforms at very high performance levels (Gordon Bell Award Finalist 2012, 2013). The origins of HACC lie in a new code design effort initiated for Roadrunner at Los Alamos National Laboratory, the first machine to break the petaflop barrier in 2008. HACC uses a hybrid algorithm in its gravity solver, with the short-range computation being tuned to the system architecture. More about the gravity-only version of HACC can be found in this publication. Gasdynamics in HACC is treated using CRK-SPH (Conservative Reproducing Kernel Smoothed Particle Hydrodynamics), a higher-order SPH scheme that does not suffer from difficulties in dealing with mixing and fluid instabilities. A number of subgrid models for gas cooling/heating, star formation, and astrophysical feedback mechanisms are included. Some of the world’s largest cosmological simulation runs and large-scale simulation suites have been carried out with HACC. Current code development is led by an Argonne team and is supported by DOE’s Exascale Computing Project.
 
-<div id="nyx">NYX</div>
+<div id="nyx"><h3>NYX</h3></div>
 Nyx is an adaptive mesh, massively-parallel, cosmological simulation code that solves equations of compressible hydrodynamics flow describing the evolution of baryonic gas coupled with an N-body treatment of the dark matter in an expending universe. Nyx's hydrodynamics is based on formulation in Eulerian coordinates. The code uses a dimensionally-unsplit 2nd order PPM approach to construct the fluxes through the interfaces of each cell. The Poisson equation for self-gravity of the gas and dark matter is solved using geometric multigrid method. The approach to AMR in Nyx uses a nested hierarchy of logically-rectangular grids with simultaneous refinement of the grids in both space and time. The integration algorithm on the grid hierarchy is a recursive procedure in which coarse grids are advanced in time, fine grids are advanced multiple steps to reach the same time as the coarse grids and the data at different levels are then synchronized. A separate synchronization is done for gravity.
