@@ -2,9 +2,9 @@
 title: Application
 ---
 
-[EXAFEL](#exafel)  
-[HACC](#hacc)  
-[NYX](#nyx)  
+- [EXAFEL](#exafel)  
+- [HACC](#hacc)  
+- [NYX](#nyx)  
 
 
 <div id="exafel">EXAFEL</div>
