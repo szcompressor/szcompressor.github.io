@@ -19,7 +19,7 @@
   path: tabs
   url: team
 -
-  name: "Application"
+  name: "Application Domains"
   icon: "fas fa-info"
   path: tabs
   url: application
