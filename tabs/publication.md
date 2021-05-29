@@ -53,6 +53,8 @@ title: Publications
 - [**TACO**] Eldstål-Ahrens, Albin, and Ioannis Sourdis. "MemSZ: Squeezing Memory Traffic with Lossy Compression." ACM Transactions on Architecture and Code Optimization (TACO) 17, no. 4 (2020): 1-25.
 
 ### 2021
-- - [**IPDPS'21**] Jiannan Tian, Cody Rivera, Sheng Di, Jieyang Chen, Xin Liang, Dingwen Tao, and Franck Cappello. "Revisiting Huffman Coding: Toward Extreme
-Performance on Modern GPU Architectures." In 2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS), to appear. IEEE, 2021.
+- [**IPDPS'21**] Jiannan Tian, Cody Rivera, Sheng Di, Jieyang Chen, Xin Liang, Dingwen Tao, and Franck Cappello. "Revisiting Huffman Coding: Toward Extreme
+Performance on Modern GPU Architectures." In 2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 881-891. IEEE, 2021.
+- [**ICDE'21**] Kai Zhao, Sheng Di, Maxim Dmitriev, Thierry-Laurent D. Tonellot, Zizhong Chen, and Franck Cappello. "Optimizing Error-Bounded Lossy Compression for Scientiﬁc Data by Dynamic Spline Interpolation." In 2021 IEEE International Conference on Data Engineering (ICDE), Chania, Crete, Greece, pp. 1643-1654, Apr 19 - 22, 2021.
+
 
