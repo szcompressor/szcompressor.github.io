@@ -56,5 +56,5 @@ title: Publications
 - [**IPDPS'21**] Jiannan Tian, Cody Rivera, Sheng Di, Jieyang Chen, Xin Liang, Dingwen Tao, and Franck Cappello. "Revisiting Huffman Coding: Toward Extreme
 Performance on Modern GPU Architectures." In 2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 881-891. IEEE, 2021.
 - [**ICDE'21**] Kai Zhao, Sheng Di, Maxim Dmitriev, Thierry-Laurent D. Tonellot, Zizhong Chen, and Franck Cappello. "Optimizing Error-Bounded Lossy Compression for Scientiﬁc Data by Dynamic Spline Interpolation." In 2021 IEEE International Conference on Data Engineering (ICDE), Chania, Crete, Greece, pp. 1643-1654, Apr 19 - 22, 2021.
-
-
+- [**PPoPP'21**] Sian Jin, Guanpeng Li, Shuaiwen Leon Song, Dingwen Tao. "A Novel Memory-Efficient Deep Learning Training Framework via Error-Bounded Lossy Compression." In Proceedings of the 26th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), pp. 485-487, 2021.
+- [**HPDC'21**] Sian Jin, Jesus Pulido, Pascal Grosset, Jiannan Tian, Dingwen Tao, and James Ahrens. "Adaptive Configuration of In Situ Lossy Compression for Cosmology Simulations via Fine-Grained Rate-Quality Modeling." In Proceedings of the 30th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), pp. xx-xx, 2021. 
