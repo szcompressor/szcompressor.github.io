@@ -11,10 +11,25 @@ title: Software
 - [DeepSZ](https://github.com/szcompressor/DeepSZ): Deep neural network (DNN) model compressor.
 - [SZauto](https://github.com/szcompressor/SZauto): SZ with automatic parameter optimization.
 - [SZ3](https://github.com/szcompressor/SZ3): SZ with loosely-coupled stages support easy custimization.
+- [Roibin-SZ](https://github.com/szcompressor/SZ): Roibin-SZ - customized for EXAFEL datasets - has been integrated in SZ2.1 (see examples/roibin_example for details).
+- [SZx](https://github.com/disheng222/SZx): SZx is a superfast version in error-bounded lossy compression, with certain reasonable degradation in compression ratio.
 - [QCAT](https://github.com/szcompressor/qcat): Quick Compression Analysis Toolkit.
 
-<div id="instrument"><h3>Other Products/Projects Using SZ </h3></div>
+<div id="instrument"><h3>Other products that integrates/uses SZ </h3></div>
 
-- [H5Z-SZ](https://github.com/disheng222/H5Z-SZ): HDF5 filter of SZ.
+- [PNetCDF-SZ](https://github.com/Parallel-NetCDF/PnetCDF-SZ): a utility package supporting to compress NetCDF data files.
+- [H5Z-SZ/HDF5](https://github.com/disheng222/H5Z-SZ): HDF5 filter of SZ.
 - [MemSZ](https://dl.acm.org/doi/pdf/10.1145/3424668): Squeezing memory traffic with SZ. Developed by Albin Eldstål-Ahrens and Ioannis Sourdis.
-- IoT data compression: [Robust IoT time series classification with data compression and deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231220302939), [An energy efficient IoT data compression approach for edge machine learning](https://www.sciencedirect.com/science/article/pii/S0167739X18331716). Developed by Joseph Azara, Abdallah Makhoula, Raphaël Couturiera, and Jacques Demerjian.
+- [IoT data compression 1](https://www.sciencedirect.com/science/article/abs/pii/S0925231220302939): Robust IoT time series classification with data compression and deep learning.
+- [IoT data compression 2](https://www.sciencedirect.com/science/article/pii/S0167739X18331716): An energy efficient IoT data compression approach for edge machine learning]
+- [AlternativeUniversity](https://alternativeuniversity.net/compsci/raster/stor/xrhlib/): XRHLIB - a free C language source code for reading and writing XRH o files.
+- [EXAFEL](https://www.exascaleproject.org/research-project/exafel/exafel/): Data Analytics at the Exascale for Free Electron Lasers.
+- [EXAALT](https://www.exascaleproject.org/research-project/exaalt/exaalt/): : Molecular Dynamics at the Exascale.
+- [HACC](https://cpac.hep.anl.gov/projects/hacc/): Hardware/Hybrid Accelerated Cosmology Code.
+- [NYX](https://amrex-astro.github.io/Nyx/): An adaptive mesh, cosmological hydrodynamics simulation code.
+- [ADIOS(2)](https://github.com/ornladios/ADIOS2): The Adaptable Input Output System (v2).
+- [Z-checker](https://github.com/CODARcode/Z-checker): An lossy compression assessment framework/toolkit/library. 
+- [Libpressio](https://github.com/CODARcode/libpressio): A C++ library with C compatible bindings to abstract lossy compression interface.
+- [GAMESS](https://www.msg.chem.iastate.edu/GAMESS/): General Atomic and Molecular Electronic Structure System. 
+- [VisAly-Foresight](https://github.com/lanl/VizAly-Foresight): A Compression benchmark suite for Visualization and Analysis of Simulation Data.
+- [Reverse Time Migration](https://wiki.seg.org/wiki/Reverse_time_migration): Seismic imaging methodology.
