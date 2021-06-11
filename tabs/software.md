@@ -4,7 +4,8 @@ title: Software
 
 <div id="instrument"><h3>SZ Software</h3></div>
 
-- [SZ](https://github.com/szcompressor/SZ): CPU version of SZ.
+- [SZ 2](https://github.com/szcompressor/SZ): CPU version of SZ v2.1.
+- [SZ 1](https://github.com/szcompressor/SZ): CPU version of SZ v1.4 (integrated in v2.1; can be turned on in sz.config).
 - [cuSZ](https://github.com/szcompressor/cuSZ): CUDA version of SZ for GPUs.
 - [waveSZ](https://github.com/szcompressor/SZ_HLS): Vivado HLS implementation of SZ for Xilinx FPGAs.
 - [kSZ](https://github.com/szcompressor/kokkosSZ): A portable accelerator implementation of SZ using Kokkos programming model.
