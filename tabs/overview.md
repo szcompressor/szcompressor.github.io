@@ -8,5 +8,5 @@ SZ has implementations on CPU, GPU, and FPGA and is integrated in the main I/O l
 
 The current structure of the SZ framework is represented by the following hierarchy. This figure should help users to select the configuration of SZ corresponding to their needs.
 
-![SZ_Family_Tree](https://user-images.githubusercontent.com/5705572/91900477-9ab1b680-ec53-11ea-97bf-5cab7f2c6877.jpg)
+![SZ_Family_Tree](https://user-images.githubusercontent.com/5705572/121612979-6653fd80-ca10-11eb-8c2d-e79a307c5f06.jpg)
 
