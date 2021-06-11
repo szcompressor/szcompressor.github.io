@@ -37,3 +37,4 @@ title: Software
 - [Reverse Time Migration](https://wiki.seg.org/wiki/Reverse_time_migration): Seismic imaging methodology.
 - [Anaconda](https://anaconda.org/williamfgc/sz): Package management and deployment platform for scientific computing.
 - [SCIL](https://github.com/JulianKunkel/scil): Scientific Compression Library.
+- [SDRBench](https://sdrbench.github.io/): Scientific Data Reduction Benchmarks.
