@@ -12,8 +12,9 @@ title: Software
 - [DeepSZ](https://github.com/szcompressor/DeepSZ): Deep neural network (DNN) model compressor.
 - [SZauto](https://github.com/szcompressor/SZauto): SZ with automatic parameter optimization.
 - [SZ3](https://github.com/szcompressor/SZ3): SZ with loosely-coupled stages support easy custimization.
-- [Roibin-SZ](https://github.com/szcompressor/SZ): Roibin-SZ - customized for EXAFEL datasets (see examples/roibin_example in SZ2.1 for details).
-- [SZx](https://github.com/disheng222/SZx): a superfast error-bounded compressor, with certain reasonable compression ratios.
+- [Roibin-SZ](https://github.com/szcompressor/SZ): Roibin-SZ - customized for EXAFEL datasets. (see examples/roibin_example in SZ2.1 for details).
+- [SZx](https://github.com/disheng222/SZx): A superfast error-bounded compressor, with certain reasonable compression ratios.
+- [cpSZ](https://github.com/szcompressor/cpSZ): An SZ-based lossy compressor that preserves critical point feature for vector fields.
 - [QCAT](https://github.com/szcompressor/qcat): Quick Compression Analysis Toolkit.
 
 <div id="instrument"><h3>Other products that integrates/uses SZ </h3></div>
@@ -34,3 +35,4 @@ title: Software
 - [GAMESS](https://www.msg.chem.iastate.edu/GAMESS/): General Atomic and Molecular Electronic Structure System. 
 - [VisAly-Foresight](https://github.com/lanl/VizAly-Foresight): A Compression benchmark suite for Visualization and Analysis of Simulation Data.
 - [Reverse Time Migration](https://wiki.seg.org/wiki/Reverse_time_migration): Seismic imaging methodology.
+- [Anaconda](https://anaconda.org/williamfgc/sz): Package management and deployment platform for scientific computing.
