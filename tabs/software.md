@@ -11,8 +11,8 @@ title: Software
 - [DeepSZ](https://github.com/szcompressor/DeepSZ): Deep neural network (DNN) model compressor.
 - [SZauto](https://github.com/szcompressor/SZauto): SZ with automatic parameter optimization.
 - [SZ3](https://github.com/szcompressor/SZ3): SZ with loosely-coupled stages support easy custimization.
-- [Roibin-SZ](https://github.com/szcompressor/SZ): Roibin-SZ - customized for EXAFEL datasets - has been integrated in SZ2.1 (see examples/roibin_example for details).
-- [SZx](https://github.com/disheng222/SZx): SZx is a superfast version in error-bounded lossy compression, with certain reasonable degradation in compression ratio.
+- [Roibin-SZ](https://github.com/szcompressor/SZ): Roibin-SZ - customized for EXAFEL datasets. (see examples/roibin_example in SZ2.1 for details).
+- [SZx](https://github.com/disheng222/SZx): a superfast error-bounded compressor, with certain reasonable compression ratios.
 - [QCAT](https://github.com/szcompressor/qcat): Quick Compression Analysis Toolkit.
 
 <div id="instrument"><h3>Other products that integrates/uses SZ </h3></div>
