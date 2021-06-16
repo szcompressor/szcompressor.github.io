@@ -28,16 +28,16 @@ The current structure of the SZ framework is represented by the following hierar
 | Pastri-SZ [7] | Specialized: Optimized for quantum chemistry.                                        | DeepSZ [8]  | Specialized: Optimized for Deep Learning.                                                                 |
 
 #### References
-- [1] SZ - an error bounded lossy compressor: https://github.com/szcompressor/SZ.
-- [2] SZ3: https://github.com/szcompressor/SZ3.
-- [3] SZx - an ultra-fast error-bounded lossy compressor: https://github.com/disheng222/SZx.
-- [4] kokkosSZ: a portable accelerator implementation of SZ using kokkos programming model: https://github.com/szcompressor/kokkosSZ.
-- [5] Robin-SZ: https://szcompressor.org/tabs/software.
-- [6] cpSZ: a lossy compressor with critical points preserved for vector fields: https://github.com/szcompressor/cpSZ.
-- [7] Ali Murat Gok, Sheng Di, Yuri Alexeev, Dingwen Tao, Vladimir Mironov, and Franck Cappello, PaSTRI: Error-bounded Lossy Compression for Two-Electron Integrals in Quantum Chemistry, in IEEE CLUSTER 2018, 2018, Pages 1-11. (Best paper award).
-- [8] Sian Jin, Sheng Di, Xin Liang, Jiannan Tian, Dingwen Tao, Franck Cappello, DeepSZ: A Novel Framework to Compress Deep Neural Networks by Using Error-Bounded Lossy Compression, Proceedings of the 28th ACM International Symposium on High-Performance Parallel and Distributed Computing (ACM HPDC19), Phoenix, AZ, USA, June 24 - 28, 2019. https://github.com/szcompressor/DeepSZ.
-- [9] Jiannan Tian, Sheng Di, Chengming Zhang, Xin Liang, Sian Jin, Dazhao Cheng, Dingwen Tao, and Franck Cappello, waveSZ: A Hardware-Algorithm Co-Design of Efficient Lossy Compression for Scientific Data, Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (ACM PPoPP2020), San Diego, California, USA, February 22-26, 2020. https://github.com/szcompressor/SZ_HLS.
-- [10] Kai Zhao, Sheng Di, Maxim Dmitriev, Thierry-Laurent D. Tonellot, Zizhong Chen, and Franck Cappello, Optimizing Error-Bounded Lossy Compression for Scientiﬁc Data by Dynamic Spline Interpolation, Proceeding of the 37th IEEE International Conference on Data Engineering (ICDE2021), Chania, Crete, Greece, Apr 19 - 22, 2021. https://github.com/szcompressor/SZauto.
-- [11] Jiannan Tian, Sheng Di, Kai Zhao, Cody Rivera, Megan Hickman, Robert Underwood, Sian Jin, Xin Liang, Jon Calhoun, Dingwen Tao, and Franck Cappello, cuSZ: An Efficient GPU Based Error-Bounded Lossy Compression Framework for Scientific Data, Proceedings of the 29th International Conference on Parallel Architectures and Compilation Techniques (PACT'20), 2020, Pages 3–15. https://github.com/szcompressor/cuSZ.
-- [12] Kai Zhao, Sheng Di, Maxim Dmitriev, Thierry-Laurent D. Tonellot, Zizhong Chen, and Franck Cappello, Optimizing Error-Bounded Lossy Compression for Scientiﬁc Data by Dynamic Spline Interpolation, Proceeding of the 37th IEEE International Conference on Data Engineering (ICDE2021), Chania, Crete, Greece, Apr 19 - 22, 2021.
-- [13] MDZ: an efficient error-bounded lossy compressor for molecular dynamics simulations of materials.
+[1] SZ - an error bounded lossy compressor: https://github.com/szcompressor/SZ.
+[2] SZ3: https://github.com/szcompressor/SZ3.
+[3] SZx - an ultra-fast error-bounded lossy compressor: https://github.com/disheng222/SZx.
+[4] kokkosSZ: a portable accelerator implementation of SZ using kokkos programming model: https://github.com/szcompressor/kokkosSZ.
+[5] Robin-SZ: https://szcompressor.org/tabs/software.
+[6] cpSZ: a lossy compressor with critical points preserved for vector fields: https://github.com/szcompressor/cpSZ.
+[7] Ali Murat Gok, Sheng Di, Yuri Alexeev, Dingwen Tao, Vladimir Mironov, and Franck Cappello, PaSTRI: Error-bounded Lossy Compression for Two-Electron Integrals in Quantum Chemistry, in IEEE CLUSTER 2018, 2018, Pages 1-11. (Best paper award).
+[8] Sian Jin, Sheng Di, Xin Liang, Jiannan Tian, Dingwen Tao, Franck Cappello, DeepSZ: A Novel Framework to Compress Deep Neural Networks by Using Error-Bounded Lossy Compression, Proceedings of the 28th ACM International Symposium on High-Performance Parallel and Distributed Computing (ACM HPDC19), Phoenix, AZ, USA, June 24 - 28, 2019. https://github.com/szcompressor/DeepSZ.
+[9] Jiannan Tian, Sheng Di, Chengming Zhang, Xin Liang, Sian Jin, Dazhao Cheng, Dingwen Tao, and Franck Cappello, waveSZ: A Hardware-Algorithm Co-Design of Efficient Lossy Compression for Scientific Data, Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (ACM PPoPP2020), San Diego, California, USA, February 22-26, 2020. https://github.com/szcompressor/SZ_HLS.
+[10] Kai Zhao, Sheng Di, Maxim Dmitriev, Thierry-Laurent D. Tonellot, Zizhong Chen, and Franck Cappello, Optimizing Error-Bounded Lossy Compression for Scientiﬁc Data by Dynamic Spline Interpolation, Proceeding of the 37th IEEE International Conference on Data Engineering (ICDE2021), Chania, Crete, Greece, Apr 19 - 22, 2021. https://github.com/szcompressor/SZauto.
+[11] Jiannan Tian, Sheng Di, Kai Zhao, Cody Rivera, Megan Hickman, Robert Underwood, Sian Jin, Xin Liang, Jon Calhoun, Dingwen Tao, and Franck Cappello, cuSZ: An Efficient GPU Based Error-Bounded Lossy Compression Framework for Scientific Data, Proceedings of the 29th International Conference on Parallel Architectures and Compilation Techniques (PACT'20), 2020, Pages 3–15. https://github.com/szcompressor/cuSZ.
+[12] Kai Zhao, Sheng Di, Maxim Dmitriev, Thierry-Laurent D. Tonellot, Zizhong Chen, and Franck Cappello, Optimizing Error-Bounded Lossy Compression for Scientiﬁc Data by Dynamic Spline Interpolation, Proceeding of the 37th IEEE International Conference on Data Engineering (ICDE2021), Chania, Crete, Greece, Apr 19 - 22, 2021.
+[13] MDZ: an efficient error-bounded lossy compressor for molecular dynamics simulations of materials.
