@@ -15,7 +15,7 @@ The current structure of the SZ framework is represented by the following hierar
 ![SZ_Family_Tree](https://user-images.githubusercontent.com/5705572/121612979-6653fd80-ca10-11eb-8c2d-e79a307c5f06.jpg)
 
 
-### SZ products and their utilization
+#### SZ products and their utilization
 
 | **Product**           |                                      **Utilization**                                     | **Product**         |                                                **Utilization**                                                |
 |-------------------|:------------------------------------------------------------------------------------:|-----------------|:---------------------------------------------------------------------------------------------------------:|
