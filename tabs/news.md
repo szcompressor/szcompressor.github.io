@@ -3,6 +3,7 @@ title: News
 ---
 
 - 06/16/2021: [MMD-SZ](https://github.com/szcompressor/MMD-SZ) has been released. 
+- 06/10/2021: [Robin-SZ](https://github.com/szcompressor/SZ/tree/master/example/roibin_example) has been released. 
 - 06/10/2021: [cpSZ](https://github.com/szcompressor/cpSZ) has been released. 
 - 04/09/2021: [waveSZ](https://github.com/szcompressor/SZ_HLS) has been released. 
 - 03/01/2021: [QCAT-1.2](https://github.com/szcompressor/qcat/releases/download/1.2/qcat-1.2.tar.gz) has been released. 
@@ -15,4 +16,8 @@ title: News
 - 09/27/2020: [cuSZ-0.1.2](https://github.com/szcompressor/cuSZ/releases/download/v0.1.2/cuSZ-0.1.2.tar.gz) has been released. 
 - 09/04/2020: [QCAT-1.0](https://github.com/szcompressor/qcat/releases/download/v1.0/qcat-1.0.tar.gz) has been released. 
 - 08/24/2020: [DeepSZ-0.1](https://github.com/szcompressor/DeepSZ/releases/download/v0.1/DeepSZ-0.1.tar.gz) has been released.
-- 07/15/2020: Our [cuSZ paper](https://arxiv.org/abs/2007.09625) has been accepted by PACT'20.
+- 10/02/2020: [Interp-SZ paper](https://icde2021.gr/accepted-papers/) has been accepted by ICDE'21.
+- 07/15/2020: Our [cuSZ paper](https://dl.acm.org/doi/abs/10.1145/3410463.3414624) has been accepted by PACT'20.
+- 03/26/2020: Our [SZauto paper](https://dl.acm.org/doi/abs/10.1145/3369583.3392688) has been accepted by HPDC'20.
+- 12/20/2019: Our [waveSZ paper](https://dl.acm.org/doi/10.1145/3332466.3374525) has been accepted by PPoPP'20.
+- 03/18/2019: Our [DeepSZ paper](https://dl.acm.org/doi/10.1145/3307681.3326608) has been accepted by HPDC'19.
