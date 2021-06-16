@@ -2,12 +2,16 @@
 title: News
 ---
 
+- 06/16/2021: [MMD-SZ](https://github.com/szcompressor/MMD-SZ) has been released. 
+- 06/10/2021: [cpSZ](https://github.com/szcompressor/cpSZ) has been released. 
+- 04/09/2021: [waveSZ](https://github.com/szcompressor/SZ_HLS) has been released. 
 - 03/01/2021: [QCAT-1.2](https://github.com/szcompressor/qcat/releases/download/1.2/qcat-1.2.tar.gz) has been released. 
 - 02/27/2021: [SZauto-1.0.0](https://github.com/szcompressor/SZauto/releases/download/1.0.0/SZauto-1.0.0.tar.gz) has been released.
-- 01/02/2021: [cuSZ-0.2.0](https://github.com/szcompressor/cuSZ/releases/download/v0.2.0/cuSZ-0.2.0.tar.gz) has been released. 
+- 01/22/2021: [cuSZ-0.2.2](https://github.com/szcompressor/cuSZ/releases/download/v0.2.0/cuSZ-0.2.0.tar.gz) has been released. 
 - 11/05/2020: [QCAT-1.1](https://github.com/szcompressor/qcat/releases/download/v1.1/qcat-1.1.tar.gz) has been released. 
 - 10/25/2020: [cuSZ-0.1.3](https://github.com/szcompressor/cuSZ/releases/download/v0.1.3/cuSZ-0.1.3.tar.gz) has been released. 
 - 10/24/2020: [SZ-2.1.11](https://github.com/szcompressor/SZ/releases/download/v2.1.11/SZ-2.1.11.tar.gz) has been released.
+- 09/30/2020: [kSZ](https://github.com/szcompressor/kokkosSZ) has been released. 
 - 09/27/2020: [cuSZ-0.1.2](https://github.com/szcompressor/cuSZ/releases/download/v0.1.2/cuSZ-0.1.2.tar.gz) has been released. 
 - 09/04/2020: [QCAT-1.0](https://github.com/szcompressor/qcat/releases/download/v1.0/qcat-1.0.tar.gz) has been released. 
 - 08/24/2020: [DeepSZ-0.1](https://github.com/szcompressor/DeepSZ/releases/download/v0.1/DeepSZ-0.1.tar.gz) has been released.
