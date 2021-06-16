@@ -17,8 +17,8 @@ The current structure of the SZ framework is represented by the following hierar
 
 #### SZ products and their utilization
 
-| **Product**           |                                      **Utilization**                                     | **Product**         |                                                **Utilization**                                                |
-|-------------------|:------------------------------------------------------------------------------------:|-----------------|:---------------------------------------------------------------------------------------------------------:|
+| **Product**           | **Utilization**                                                                          | **Product**         | **Utilization**                                                                                               |
+|-------------------|--------------------------------------------------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------|
 | SZ1.4/2.1 [SZ21]  | Generic: Can be used on any dataset. Not customizable.                               | Roibin-SZ [RSZ] | Specialized: Optimized for X-ray crystallography (instrument)                                             |
 | SZ3 [SZ3]         | Generic: Can be used on any dataset. Highly customizable.                            | MMD-SZ [MSZ]    | Specialized: Optimized for material molecular dynamics                                                    |
 | SZx [SZX]         | Generic: Ultra-fast. Not customizable.                                               | SZ-auto [Zha20] | Generic: Version that automatic tunes parameters for optimal compression.                                 |
