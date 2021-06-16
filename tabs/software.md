@@ -9,6 +9,7 @@ title: Software
 - [cuSZ](https://github.com/szcompressor/cuSZ): CUDA version of SZ for GPUs.
 - [waveSZ](https://github.com/szcompressor/SZ_HLS): Vivado HLS implementation of SZ for Xilinx FPGAs.
 - [kSZ](https://github.com/szcompressor/kokkosSZ): A portable accelerator implementation of SZ using Kokkos programming model.
+- [Interp-SZ](https://github.com/szcompressor/SZ3_Private): Spline-interpolation based error-bounded lossy compressor.
 - [DeepSZ](https://github.com/szcompressor/DeepSZ): Deep neural network (DNN) model compressor.
 - [SZauto](https://github.com/szcompressor/SZauto): SZ with automatic parameter optimization.
 - [SZ3](https://github.com/szcompressor/SZ3): SZ with loosely-coupled stages support easy custimization.
