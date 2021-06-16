@@ -9,14 +9,15 @@ title: News
 - 03/01/2021: [QCAT-1.2](https://github.com/szcompressor/qcat/releases/download/1.2/qcat-1.2.tar.gz) has been released. 
 - 02/27/2021: [SZauto-1.0.0](https://github.com/szcompressor/SZauto/releases/download/1.0.0/SZauto-1.0.0.tar.gz) has been released.
 - 01/22/2021: [cuSZ-0.2.2](https://github.com/szcompressor/cuSZ/releases/download/v0.2.0/cuSZ-0.2.0.tar.gz) has been released. 
+- 12/10/2020: Our [Huffman encoding on GPU paper](https://arxiv.org/abs/2010.10039) has been accepted by IPDPS'21. 
 - 11/05/2020: [QCAT-1.1](https://github.com/szcompressor/qcat/releases/download/v1.1/qcat-1.1.tar.gz) has been released. 
 - 10/25/2020: [cuSZ-0.1.3](https://github.com/szcompressor/cuSZ/releases/download/v0.1.3/cuSZ-0.1.3.tar.gz) has been released. 
 - 10/24/2020: [SZ-2.1.11](https://github.com/szcompressor/SZ/releases/download/v2.1.11/SZ-2.1.11.tar.gz) has been released.
+- 10/02/2020: [Interp-SZ paper](https://icde2021.gr/accepted-papers/) has been accepted by ICDE'21.
 - 09/30/2020: [kSZ](https://github.com/szcompressor/kokkosSZ) has been released. 
 - 09/27/2020: [cuSZ-0.1.2](https://github.com/szcompressor/cuSZ/releases/download/v0.1.2/cuSZ-0.1.2.tar.gz) has been released. 
 - 09/04/2020: [QCAT-1.0](https://github.com/szcompressor/qcat/releases/download/v1.0/qcat-1.0.tar.gz) has been released. 
 - 08/24/2020: [DeepSZ-0.1](https://github.com/szcompressor/DeepSZ/releases/download/v0.1/DeepSZ-0.1.tar.gz) has been released.
-- 10/02/2020: [Interp-SZ paper](https://icde2021.gr/accepted-papers/) has been accepted by ICDE'21.
 - 07/15/2020: Our [cuSZ paper](https://dl.acm.org/doi/abs/10.1145/3410463.3414624) has been accepted by PACT'20.
 - 03/26/2020: Our [SZauto paper](https://dl.acm.org/doi/abs/10.1145/3369583.3392688) has been accepted by HPDC'20.
 - 12/20/2019: Our [waveSZ paper](https://dl.acm.org/doi/10.1145/3332466.3374525) has been accepted by PPoPP'20.
