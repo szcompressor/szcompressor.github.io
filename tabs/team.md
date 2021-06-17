@@ -13,7 +13,7 @@ title: Team
 Kai Zhao, Jinyang Liu
 
 #### Clemson Univerity
-[Dr. Jon Calhoun](http://jonccal.people.clemson.edu/), Robert Underwood
+[Dr. Jon Calhoun](http://jonccal.people.clemson.edu/), Robert Underwood, Griffin Dube
 
 #### Missouri University of Science and Technology
 [Dr. Xin Liang](https://www.cs.ucr.edu/~xlian007/)
