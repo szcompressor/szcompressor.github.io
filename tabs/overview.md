@@ -31,5 +31,5 @@ The current structure of the SZ framework is represented by the following hierar
 2. SZ3: [https://github.com/szcompressor/SZ3](https://github.com/szcompressor/SZ3).
 3. SZx: [https://github.com/disheng222/SZx](https://github.com/disheng222/SZx).
 4. kokkosSZ: [https://github.com/szcompressor/kokkosSZ](https://github.com/szcompressor/kokkosSZ).
-5. Robin-SZ: [https://github.com/szcompressor/SZ/tree/master/example/roibin_example](https://github.com/szcompressor/SZ/tree/master/example/roibin_example).
+5. Roibin-SZ: [https://github.com/szcompressor/SZ/tree/master/example/roibin_example](https://github.com/szcompressor/SZ/tree/master/example/roibin_example).
 6. vecSZ: [https://github.com/szcompressor/vecSZ](https://github.com/szcompressor/vecSZ).
