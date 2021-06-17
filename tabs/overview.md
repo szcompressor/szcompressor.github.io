@@ -27,9 +27,9 @@ The current structure of the SZ framework is represented by the following hierar
 | Interp-SZ [ICDE'21] | Specialized: Optimized for seismic imaging (oil and gas).                            | cpSZ [PacificVis'20]     | Specialized: Optimized for fluid flows.                                                                   |
 | Pastri-SZ [CLUSTER'18] | Specialized: Optimized for quantum chemistry.                                        | DeepSZ [HPDC'19]  | Specialized: Optimized for Deep Learning.                                                                 |
 
-1. SZ: [https://github.com/szcompressor/SZ](https://github.com/szcompressor/SZ).
-2. SZ3: [https://github.com/szcompressor/SZ3](https://github.com/szcompressor/SZ3).
-3. SZx: [https://github.com/disheng222/SZx](https://github.com/disheng222/SZx).
-4. kokkosSZ: [https://github.com/szcompressor/kokkosSZ](https://github.com/szcompressor/kokkosSZ).
-5. Roibin-SZ: [https://github.com/szcompressor/SZ/tree/master/example/roibin_example](https://github.com/szcompressor/SZ/tree/master/example/roibin_example).
-6. vecSZ: [https://github.com/szcompressor/vecSZ](https://github.com/szcompressor/vecSZ).
+[1] SZ1.4/2.1: [https://github.com/szcompressor/SZ](https://github.com/szcompressor/SZ).
+[2] SZ3: [https://github.com/szcompressor/SZ3](https://github.com/szcompressor/SZ3).
+[3] SZx: [https://github.com/szcompressor/SZx](https://github.com/disheng222/SZx).
+[4] kokkosSZ: [https://github.com/szcompressor/kokkosSZ](https://github.com/szcompressor/kokkosSZ).
+[5] Roibin-SZ: [https://github.com/szcompressor/SZ/tree/master/example/roibin_example](https://github.com/szcompressor/SZ/tree/master/example/roibin_example).
+[6] vecSZ: [https://github.com/szcompressor/vecSZ](https://github.com/szcompressor/vecSZ).
