@@ -2,8 +2,9 @@
 title: News
 ---
 
+- 06/16/2021: [vec-SZ](https://github.com/szcompressor/vecSZ) has been released.
 - 06/16/2021: [MMD-SZ](https://github.com/szcompressor/MMD-SZ) has been released. 
-- 06/10/2021: [Robin-SZ](https://github.com/szcompressor/SZ/tree/master/example/roibin_example) has been released. 
+- 06/10/2021: [Roibin-SZ](https://github.com/szcompressor/SZ/tree/master/example/roibin_example) has been released. 
 - 06/10/2021: [cpSZ](https://github.com/szcompressor/cpSZ) has been released. 
 - 04/09/2021: [waveSZ](https://github.com/szcompressor/SZ_HLS) has been released. 
 - 03/01/2021: [QCAT-1.2](https://github.com/szcompressor/qcat/releases/download/1.2/qcat-1.2.tar.gz) has been released. 
