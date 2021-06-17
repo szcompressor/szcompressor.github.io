@@ -23,7 +23,7 @@ The current structure of the SZ framework is represented by the following hierar
 | SZ3 [2]         | Generic: Can be used on any dataset. Highly customizable.                            | MMD-SZ     | Specialized: Optimized for material molecular dynamics.                                                    |
 | SZx [3]        | Generic: Ultra-fast. Not customizable.                                               | SZ-auto [HPDC'20] | Generic: Version that automatic tunes parameters for optimal compression.                                 |
 | cuSZ [PACT'20]      | Generic: Version for Nvidia Graphic Processor Unit (GPU) can be used on any dataset. | waveSZ [PPoPP'20]    | Generic: Generic: Version for Field Programmable Gate Array (FPGA). Can be used on any dataset.           |
-| kSZ [4]        | Generic: GPU version portable across vendors. Can be used on any dataset.            | vecSZ     | Generic: Version for Single Instruction Multiple Data instruction set in CPU. Can be used on any dataset. |
+| kSZ [4]        | Generic: GPU version portable across vendors. Can be used on any dataset.            | vecSZ [6]    | Generic: Version for Single Instruction Multiple Data instruction set in CPU. Can be used on any dataset. |
 | Interp-SZ [ICDE'21] | Specialized: Optimized for seismic imaging (oil and gas).                            | cpSZ [PacificVis'20]     | Specialized: Optimized for fluid flows.                                                                   |
 | Pastri-SZ [CLUSTER'18] | Specialized: Optimized for quantum chemistry.                                        | DeepSZ [HPDC'19]  | Specialized: Optimized for Deep Learning.                                                                 |
 
@@ -32,3 +32,4 @@ The current structure of the SZ framework is represented by the following hierar
 3. SZx: [https://github.com/disheng222/SZx](https://github.com/disheng222/SZx).
 4. kokkosSZ: [https://github.com/szcompressor/kokkosSZ](https://github.com/szcompressor/kokkosSZ).
 5. Robin-SZ: [https://github.com/szcompressor/SZ/tree/master/example/roibin_example](https://github.com/szcompressor/SZ/tree/master/example/roibin_example).
+6. vecSZ: [https://github.com/szcompressor/vecSZ](https://github.com/szcompressor/vecSZ).
