@@ -7,14 +7,15 @@ title: Software
 - [SZ 2](https://github.com/szcompressor/SZ): CPU version of SZ v2.1.
 - [SZ 1](https://github.com/szcompressor/SZ): CPU version of SZ v1.4 (integrated in v2.1; can be turned on in sz.config).
 - [cuSZ](https://github.com/szcompressor/cuSZ): CUDA version of SZ for GPUs.
-- [waveSZ](https://github.com/szcompressor/SZ_HLS): Vivado HLS implementation of SZ for Xilinx FPGAs.
 - [kSZ](https://github.com/szcompressor/kokkosSZ): A portable accelerator implementation of SZ using Kokkos programming model.
 - [Interp-SZ](https://github.com/szcompressor/SZ3_Private): Spline-interpolation based error-bounded lossy compressor.
 - [DeepSZ](https://github.com/szcompressor/DeepSZ): Deep neural network (DNN) model compressor.
 - [SZauto](https://github.com/szcompressor/SZauto): SZ with automatic parameter optimization.
+- [waveSZ](https://github.com/szcompressor/SZ_HLS): Vivado HLS implementation of SZ for Xilinx FPGAs.
+- [vecSZ](https://github.com/szcompressor/vecSZ): Vectorized code based on the Single Instruction Multiple Data (SIMD) parallel paradigm.
 - [SZ3](https://github.com/szcompressor/SZ3): SZ with loosely-coupled stages support easy custimization.
 - [Pastri-SZ](https://github.com/szcompressor/SZ): A lossy compressor optimized for GAMESS Two-electronic integrals datasets. 
-- [Robin-SZ](https://github.com/szcompressor/SZ): Roibin-SZ - customized for EXAFEL datasets. (see example/roibin_example in SZ2.1 for details).
+- [Roibin-SZ](https://github.com/szcompressor/SZ): Roibin-SZ - customized for EXAFEL datasets. (see example/roibin_example in SZ2.1 for details).
 - [MMD-SZ](https://github.com/szcompressor/MMD-SZ): A lossy compressor opotimized for Materials Molecular Dynamics Simulation Datasets.
 - [SZx](https://github.com/disheng222/SZx): A superfast error-bounded compressor, with certain reasonable compression ratios.
 - [cpSZ](https://github.com/szcompressor/cpSZ): An SZ-based lossy compressor that preserves critical point feature for vector fields.
