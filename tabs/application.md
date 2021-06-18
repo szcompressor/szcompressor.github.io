@@ -14,7 +14,7 @@ title: Application Domains
 
 <div id="climate"><h3>Climate</h3></div>
 
-<img width="260" img align="right" src="https://user-images.githubusercontent.com/5705572/122497606-7cc6ff80-cfa2-11eb-9346-a3a9a1d5a540.png">
+<img width="200" img align="right" src="https://user-images.githubusercontent.com/5705572/122497606-7cc6ff80-cfa2-11eb-9346-a3a9a1d5a540.png">
 
 The DOE Energy Exascale Earth System Model (E3SM) project (http://e3sm.org) was conceived from the confluence of energy mission needs and disruptive changes in scientific computing technology. Developed as a state-of-the-science Earth system modeling project, E3SM aims to optimize the use of DOE resources to meet the science needs of DOE. The long-term goal of the E3SM project is to address the grand challenge of actionable predictions of Earth system variability and change, with an emphasis on the most critical scientific questions facing the nation and DOE. Scientific development of the E3SM modeling system is driven by the simulation requirements in three overarching (water cycle, biogeochemistry, and cryosphere systems) and interrelated science areas that are foundational for advancing Earth system science and addressing DOE's need to understand and prepare for future variability and changes in Earth system properties critical to the energy sector such as water availability, storm severity, air and stream temperature, coastal flooding, and sea-level rise. 
 
