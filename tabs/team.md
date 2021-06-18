@@ -13,7 +13,7 @@ title: Team
 [Kai Zhao](https://www.cs.ucr.edu/~kzhao016/index.html), [Jinyang Liu](https://scholar.google.com/citations?user=7X0j6LYAAAAJ&hl=en)
 
 #### Clemson University
-[Dr. Jon Calhoun](http://jonccal.people.clemson.edu/), Robert Underwood, Griffin Dube
+[Dr. Jon Calhoun](http://jonccal.people.clemson.edu/), [Robert Underwood](https://robertu94.github.io/), [Griffin Dube](http://gdube.people.clemson.edu/)
 
 #### Missouri University of Science and Technology
 [Dr. Xin Liang](https://lxaltria.github.io/)
