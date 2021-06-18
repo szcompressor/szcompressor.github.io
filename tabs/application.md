@@ -28,7 +28,7 @@ Nyx is an adaptive mesh, massively-parallel, cosmological simulation code that s
 
 <div id="weather"><h3>Extreme Weather</h3></div>
 
-<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122498179-856c0580-cfa3-11eb-9abe-7dd3e2e642d2.jpeg">
+<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122561137-5763e100-cff6-11eb-8514-555f3460683f.jpeg">
 
 Hurricane Isabel data produced by the Weather Research and Forecast (WRF) model, which was by the National Center for Atmospheric Research (NCAR) and its partners (http://wrf-model.org). The WRF model is a next-generation mesoscale numerical weather prediction system designed for both atmospheric research and operational forecasting applications. It features two dynamical cores, a data assimilation system, and a software architecture supporting parallel computation and system extensibility. The model serves a wide range of meteorological applications across scales from tens of meters to thousands of kilometers. WRF can produce simulations based on actual atmospheric conditions (i.e., from observations and analyses) or idealized conditions. WRF offers operational forecasting a flexible and computationally-efficient platform, while reflecting recent advances in physics, numerics, and data assimilation contributed by developers from the expansive research community. WRF is currently in operational use at NCEP and other national meteorological centers as well as in real-time forecasting configurations at laboratories, universities, and companies.
 
@@ -40,7 +40,7 @@ Deep neural networks (DNNs) have rapidly evolved to the state-of-the-art techniq
 
 <div id="instrument"><h3>Light Sources (Physics Instruments)</h3></div>
 
-<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122499556-fad8d580-cfa5-11eb-95df-b2122470741c.jpeg">
+<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122562082-8038a600-cff7-11eb-9952-e121edbb9917.jpg">
 
 The ExaFEL application aims at shrinking the X-ray Free Electron Laser data analysis timescale from weeks to minutes. Near real-time interpretation of molecular structure revealed by X-ray diffraction will require computational intensities of unprecedented scales, coupled to a datapath of unprecedented bandwidth. Detector data rates at light sources are advancing exponentially: the Linac Coherent Light Source (LCLS) will increase its data throughput by three orders of magnitude by 2025. Users of LCLS require an integrated combination of data processing and scientific interpretation, where both aspects demand intensive computational analysis. This analysis must be carried out quickly to allow users to iterate their experiments and extract the most value from scarce beam time. In this proposal we identify a grand challenge: Enabling new photon science from the LCLS will require near real-time analysis (~10 min) of data bursts, requiring burst computational intensities exceeding an exaflop. Achieving such turn around on the future, much larger, data sets using algorithms with higher fidelity than any facility can support today will require exascale resources.  Success will also require an inter-facility R&D partnership. As an end-to-end challenge problem, XFEL applications require significant orchestration of compute, network, and storage resources and present a model use case for ESnet R&D into network operating systems. Leveraging a successful existing collaboration between LCLS and NERSC we present a plan for LCLS to retain its global leadership role for FEL science while also broadening the impact of exascale in related data analysis workflows.
 
@@ -58,7 +58,7 @@ The General Atomic and Molecular Electronic Structure System (GAMESS) is a gener
 
 <div id="quantum"><h3>Quantum Circuit Simulation</h3></div>
 
-<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122498925-d4666a80-cfa4-11eb-8755-d24896febcbd.jpeg">
+<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122562992-8a0ed900-cff8-11eb-9208-b68477ef4332.jpeg">
 
 Multiple important quantum applications with different program characteristics are selected as our benchmarks.
 - Grover: Grover’s search algorithm is for database search, and it leads to significant speedups compared with classical search algorithms. Our benchmark uses Grover’s search algorithm to find the square root number, and thus the oracle consists of X and Toffoli gates.
@@ -68,6 +68,6 @@ Multiple important quantum applications with different program characteristics a
 
 <div id="seismic"><h3>Seismic Imaging</h3></div>
 
-<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122498988-efd17580-cfa4-11eb-9deb-d0b828e0763e.jpeg">
+<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122562619-1ff63400-cff8-11eb-8fd3-8991e9d9ebf4.jpeg">
 
 Reverse Time Migration (RTM) application is a preferred solution for modeling and imaging seismic data in areas of complex wave phenomena for petroleum (oil and gas) industry. It is able to handle the most severe combinations of structural dip with high velocity contrast, conditions common in salt basins and other geologic basins with complex structures and velocity distributions. This makes it popular in areas like the deep-water Gulf of Mexico, offshore Brazil, and the North Sea, where salt structures severely distort propagating wavefronts and images. RTM is able to construct images using all possible arrivals, including caustic and prismatic waves, and can handle extreme lateral velocity variations without any dip limitations.
