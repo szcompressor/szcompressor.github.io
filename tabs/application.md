@@ -14,13 +14,13 @@ title: Application Domains
 
 <div id="climate"><h3>Climate</h3></div>
 
-<img width="220" img align="right" src="https://user-images.githubusercontent.com/5705572/122497606-7cc6ff80-cfa2-11eb-9346-a3a9a1d5a540.png">
+<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122497606-7cc6ff80-cfa2-11eb-9346-a3a9a1d5a540.png">
 
 The DOE Energy Exascale Earth System Model (E3SM) project (http://e3sm.org) was conceived from the confluence of energy mission needs and disruptive changes in scientific computing technology. Developed as a state-of-the-science Earth system modeling project, E3SM aims to optimize the use of DOE resources to meet the science needs of DOE. The long-term goal of the E3SM project is to address the grand challenge of actionable predictions of Earth system variability and change, with an emphasis on the most critical scientific questions facing the nation and DOE. Scientific development of the E3SM modeling system is driven by the simulation requirements in three overarching (water cycle, biogeochemistry, and cryosphere systems) and interrelated science areas that are foundational for advancing Earth system science and addressing DOE's need to understand and prepare for future variability and changes in Earth system properties critical to the energy sector such as water availability, storm severity, air and stream temperature, coastal flooding, and sea-level rise. 
 
 <div id="cosmology"><h3>Cosmology</h3></div>
 
-<img width="220" img align="right" src="https://user-images.githubusercontent.com/5705572/122498005-39b95c00-cfa3-11eb-9025-126446c4c3ff.png">
+<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122498005-39b95c00-cfa3-11eb-9025-126446c4c3ff.png">
 
 HACC (Hardware/Hybrid Accelerated Cosmology Code) is an extreme-scale cosmological simulation code that runs on all available supercomputing platforms at very high performance levels (Gordon Bell Award Finalist 2012, 2013). The origins of HACC lie in a new code design effort initiated for Roadrunner at Los Alamos National Laboratory, the first machine to break the petaflop barrier in 2008. HACC uses a hybrid algorithm in its gravity solver, with the short-range computation being tuned to the system architecture. More about the gravity-only version of HACC can be found in this publication. Gasdynamics in HACC is treated using CRK-SPH (Conservative Reproducing Kernel Smoothed Particle Hydrodynamics), a higher-order SPH scheme that does not suffer from difficulties in dealing with mixing and fluid instabilities. A number of subgrid models for gas cooling/heating, star formation, and astrophysical feedback mechanisms are included. Some of the world’s largest cosmological simulation runs and large-scale simulation suites have been carried out with HACC. Current code development is led by an Argonne team and is supported by DOE’s Exascale Computing Project.
 
@@ -28,37 +28,37 @@ Nyx is an adaptive mesh, massively-parallel, cosmological simulation code that s
 
 <div id="weather"><h3>Extreme Weather</h3></div>
 
-<img width="220" img align="right" src="https://user-images.githubusercontent.com/5705572/122498179-856c0580-cfa3-11eb-9abe-7dd3e2e642d2.jpeg">
+<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122498179-856c0580-cfa3-11eb-9abe-7dd3e2e642d2.jpeg">
 
 Hurricane Isabel data produced by the Weather Research and Forecast (WRF) model, which was by the National Center for Atmospheric Research (NCAR) and its partners (http://wrf-model.org). The WRF model is a next-generation mesoscale numerical weather prediction system designed for both atmospheric research and operational forecasting applications. It features two dynamical cores, a data assimilation system, and a software architecture supporting parallel computation and system extensibility. The model serves a wide range of meteorological applications across scales from tens of meters to thousands of kilometers. WRF can produce simulations based on actual atmospheric conditions (i.e., from observations and analyses) or idealized conditions. WRF offers operational forecasting a flexible and computationally-efficient platform, while reflecting recent advances in physics, numerics, and data assimilation contributed by developers from the expansive research community. WRF is currently in operational use at NCEP and other national meteorological centers as well as in real-time forecasting configurations at laboratories, universities, and companies.
 
 <div id="dl"><h3>Deep Learning</h3></div>
 
-<img width="220" img align="right" src="https://user-images.githubusercontent.com/5705572/122498381-e0056180-cfa3-11eb-8f8b-3eb8a1a1e1c2.jpeg">
+<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122498381-e0056180-cfa3-11eb-8f8b-3eb8a1a1e1c2.jpeg">
 
 Deep neural networks (DNNs) have rapidly evolved to the state-of-the-art technique for many artificial intelligence (AI) tasks in various science and technology domains, including image and vision recognition, recommendation systems, and natural language processing (NLP). DNNs contain millions of parameters in an unparalleled representation, which is efficient for modelling complex nonlinearities. Many works have suggested that using either deeper or wider DNNs is an effective way to improve analysis quality, and in fact, many recent DNNs have gone significantly deeper and/or wider. SZ error-bounded lossy compression can help with large-scale DNNs in two ways: (1) Delivering multiple latest DNN models (i.e., an order of tens to hundreds of megabytes for each model) from cloud to edge devices through bandwidth-limited network is challenging. SZ can dynamically and efficiently compress each layer of DNNs and significantly improve the ratio for compressing DNNs with error-expected features. (2) Training modern DNNs requires a large amount of memory to save the intermediate activation data (i.e., the input of all the neurons) during forward propagation. SZ can dynamically compress the intermediate activation data to drastically reduce the memory requirement for training to enlarge the limit of maximum batch size for training speedup.
 
 <div id="instrument"><h3>Light Sources (Physics Instruments)</h3></div>
 
-<img width="220" img align="right" src="https://user-images.githubusercontent.com/5705572/122498566-32df1900-cfa4-11eb-913e-91bcc0109d3e.jpeg">
+<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122499556-fad8d580-cfa5-11eb-95df-b2122470741c.jpeg">
 
 The ExaFEL application aims at shrinking the X-ray Free Electron Laser data analysis timescale from weeks to minutes. Near real-time interpretation of molecular structure revealed by X-ray diffraction will require computational intensities of unprecedented scales, coupled to a datapath of unprecedented bandwidth. Detector data rates at light sources are advancing exponentially: the Linac Coherent Light Source (LCLS) will increase its data throughput by three orders of magnitude by 2025. Users of LCLS require an integrated combination of data processing and scientific interpretation, where both aspects demand intensive computational analysis. This analysis must be carried out quickly to allow users to iterate their experiments and extract the most value from scarce beam time. In this proposal we identify a grand challenge: Enabling new photon science from the LCLS will require near real-time analysis (~10 min) of data bursts, requiring burst computational intensities exceeding an exaflop. Achieving such turn around on the future, much larger, data sets using algorithms with higher fidelity than any facility can support today will require exascale resources.  Success will also require an inter-facility R&D partnership. As an end-to-end challenge problem, XFEL applications require significant orchestration of compute, network, and storage resources and present a model use case for ESnet R&D into network operating systems. Leveraging a successful existing collaboration between LCLS and NERSC we present a plan for LCLS to retain its global leadership role for FEL science while also broadening the impact of exascale in related data analysis workflows.
 
 <div id="md"><h3>Molecular Dynamics</h3></div>
 
-<img width="220" img align="right" src="https://user-images.githubusercontent.com/5705572/122498702-7174d380-cfa4-11eb-9b42-38d4c17ac627.jpg">
+<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122499216-5d7da180-cfa5-11eb-9ecf-4d5843737138.jpeg">
 
 The Exascale Atomistic Capability for Accuracy, Length, and Time (EXAALT) application combines three state-of-the-art codes—Large-Scale Atomic/Molecular Massively Parallel Simulator (LAMMPS), LATTE, and ParSplice—into one unified tool that will leverage exascale platforms efficiently across all three dimensions of the ALT space. The new integrated capability comprises three software layers. First, a task management layer enables the creation of MD tasks, their management through task queues, and the storage of results in distributed databases. It is used to implement various replica-based accelerated MD techniques and enable other complex MD workflows. The second layer is a powerful MD engine based on the LAMMPS code. It offers a uniform interface through which various physical models can be accessed. The third layer provides a wide range of physical models from which to derive accurate interatomic/molecular forces. In addition to the many empirical potentials implemented in LAMMPS, it provides high-performance implementations of quantum MD at the density functional tight binding level, as well as to spectral neighbor analysis potentials (SNAP), a set of high-accuracy machine-learned potentials.
 
 <div id="chemistry"><h3>Quantum Chemistry</h3></div>
 
-<img width="220" img align="right" src="https://user-images.githubusercontent.com/5705572/122498766-8d787500-cfa4-11eb-9e40-cae5245181e3.jpeg">
+<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122498766-8d787500-cfa4-11eb-9e40-cae5245181e3.jpeg">
 
 The General Atomic and Molecular Electronic Structure System (GAMESS) is a general ab initio quantum chemistry package. GAMESS can perform several general computational chemistry calculations, including Hartree–Fock method, density functional theory (DFT), generalized valence bond (GVB), and multi-configurational self-consistent field (MCSCF). Correlation corrections after these SCF calculations can be estimated by configuration interaction (CI), second order Møller–Plesset perturbation theory (MP2), and coupled cluster (CC) theory. Solvent effect can be considered using quantum mechanics and molecular mechanics through discrete effective fragment potentials or continuum models (such as PCM). Relativistic corrections can be calculated, including third order Douglas-Kroll scalar terms.
 
 <div id="quantum"><h3>Quantum Circuit Simulation</h3></div>
 
-<img width="220" img align="right" src="https://user-images.githubusercontent.com/5705572/122498925-d4666a80-cfa4-11eb-8755-d24896febcbd.jpeg">
+<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122498925-d4666a80-cfa4-11eb-8755-d24896febcbd.jpeg">
 
 Multiple important quantum applications with different program characteristics are selected as our benchmarks.
 - Grover: Grover’s search algorithm is for database search, and it leads to significant speedups compared with classical search algorithms. Our benchmark uses Grover’s search algorithm to find the square root number, and thus the oracle consists of X and Toffoli gates.
@@ -68,6 +68,6 @@ Multiple important quantum applications with different program characteristics a
 
 <div id="seismic"><h3>Seismic Imaging</h3></div>
 
-<img width="220" img align="right" src="https://user-images.githubusercontent.com/5705572/122498988-efd17580-cfa4-11eb-9deb-d0b828e0763e.jpeg">
+<img width="280" img align="right" src="https://user-images.githubusercontent.com/5705572/122498988-efd17580-cfa4-11eb-9deb-d0b828e0763e.jpeg">
 
 Reverse Time Migration (RTM) application is a preferred solution for modeling and imaging seismic data in areas of complex wave phenomena for petroleum (oil and gas) industry. It is able to handle the most severe combinations of structural dip with high velocity contrast, conditions common in salt basins and other geologic basins with complex structures and velocity distributions. This makes it popular in areas like the deep-water Gulf of Mexico, offshore Brazil, and the North Sea, where salt structures severely distort propagating wavefronts and images. RTM is able to construct images using all possible arrivals, including caustic and prismatic waves, and can handle extreme lateral velocity variations without any dip limitations.
