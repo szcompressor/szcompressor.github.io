@@ -2,6 +2,7 @@
 title: News
 ---
 
+- 08/26/2021: SZ has been selected as one of the [2021 R&D100 Awards Finalists](https://www.rdworldonline.com/finalists-for-2021-rd-100-awards-are-unveiled/)!
 - 06/16/2021: [vec-SZ](https://github.com/szcompressor/vecSZ) has been released.
 - 06/16/2021: [MMD-SZ](https://github.com/szcompressor/MMD-SZ) has been released. 
 - 06/10/2021: [Roibin-SZ](https://github.com/szcompressor/SZ/tree/master/example/roibin_example) has been released. 
