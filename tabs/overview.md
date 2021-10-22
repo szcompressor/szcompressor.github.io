@@ -2,7 +2,7 @@
 title: SZ Lossy Compression
 ---
 
-<img width="150" img align="top" src="https://user-images.githubusercontent.com/5705572/138370955-856c4d86-65f1-428e-96ea-bfdd2396b397.jpeg">
+<img width="150" img align="right" src="https://user-images.githubusercontent.com/5705572/138370955-856c4d86-65f1-428e-96ea-bfdd2396b397.jpeg">
 
 ## Overview
 
