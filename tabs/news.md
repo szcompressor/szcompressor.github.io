@@ -2,7 +2,7 @@
 title: News
 ---
 
-<img width="360" img align="right" src="https://user-images.githubusercontent.com/5705572/142637837-0e654084-145e-4daa-9769-765db0e6852b.png" border="0">
+<img width="300" img align="right" src="https://user-images.githubusercontent.com/5705572/142637837-0e654084-145e-4daa-9769-765db0e6852b.png" border="0">
 <img width="150" img align="right" src="https://user-images.githubusercontent.com/5705572/138370955-856c4d86-65f1-428e-96ea-bfdd2396b397.jpeg" border="0">
 
 - 11/18/2021: cuSZ has been selected as the 3rd Place Winnder of the ACM Student Research Competition!
