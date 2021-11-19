@@ -2,6 +2,7 @@
 title: News
 ---
 
+- 11/18/2021: cuSZ has been selected as the 3rd Place Winnder of the ACM Student Research Competition!
 - 10/21/2021: SZ has been selected as a winner of [2021 R&D100 Awards](https://www.rdworldonline.com/rd-100-2021-winner/sz-a-lossy-compression-framework-for-scientific-data/)!
 - 08/26/2021: SZ has been selected as one of [2021 R&D100 Awards Finalists](https://www.rdworldonline.com/finalists-for-2021-rd-100-awards-are-unveiled/)!
 - 06/16/2021: [vec-SZ](https://github.com/szcompressor/vecSZ) has been released.
