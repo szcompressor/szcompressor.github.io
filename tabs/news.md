@@ -2,6 +2,9 @@
 title: News
 ---
 
+<img width="360" img align="right" src="https://user-images.githubusercontent.com/5705572/142637837-0e654084-145e-4daa-9769-765db0e6852b.png" border="0">
+<img width="150" img align="right" src="https://user-images.githubusercontent.com/5705572/138370955-856c4d86-65f1-428e-96ea-bfdd2396b397.jpeg" border="0">
+
 - 11/18/2021: cuSZ has been selected as the 3rd Place Winnder of the ACM Student Research Competition!
 - 10/21/2021: SZ has been selected as a winner of [2021 R&D100 Awards](https://www.rdworldonline.com/rd-100-2021-winner/sz-a-lossy-compression-framework-for-scientific-data/)!
 - 08/26/2021: SZ has been selected as one of [2021 R&D100 Awards Finalists](https://www.rdworldonline.com/finalists-for-2021-rd-100-awards-are-unveiled/)!
