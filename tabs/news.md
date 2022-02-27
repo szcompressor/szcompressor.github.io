@@ -2,6 +2,7 @@
 title: News
 ---
 
+- 02/28/2021: A new version of [cuSZ](https://github.com/szcompressor/cuSZ/releases/tag/v0.3-rc1) has been released. 
 - 01/21/2021: A new version of [SZ3](https://github.com/szcompressor/SZ3) has been released.
 - 01/07/2021: Our [MMD-SZ paper (aka. MDZ)](https://github.com/szcompressor/MMD-SZ) is accepted by ICDE2022.
 - 11/18/2021: cuSZ has been selected as the 3rd Place Winnder of the ACM Student Research Competition!
