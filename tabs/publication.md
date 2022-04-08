@@ -44,7 +44,7 @@ title: Publications
 - [**IPDPS'20**] Robert Underwood, Sheng Di, Jon Calhoun, and Franck Cappello. "FRaZ: A Generic High-Fidelity Fixed-Ratio Lossy Compression Framework for Scientific Floating-point Data." In 2020 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 567-577. IEEE, 2020.
 - [**IPDPS'20**] Sian Jin, Pascal Grosset, Christopher M Biwer, Jesus Pulido, Jiannan Tian, Dingwen Tao, and James Ahrens. "Understanding GPU-Based Lossy Compression for Extreme-Scale Cosmological Simulations." In 2020 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 105-115. IEEE, 2020.
 - [**PACT'20**] Jiannan Tian, Sheng Di, Kai Zhao, Cody Rivera, Megan Hickman, Robert Underwood, Sian Jin, Xin Liang, Jon Calhoun, Dingwen Tao, and Franck Cappello. "cuSZ: An Efficient GPU Based Error-Bounded Lossy Compression Framework for Scientific Data." In Proceedings of the 29th International Conference on Parallel Architectures and Compilation Techniques (PACT), 2020. [https://github.com/szcompressor/cuSZ](https://github.com/szcompressor/cuSZ)
-- [**SMC'20**] Franck Cappello, Sheng Di, Ali M. Gok, "Fulfilling the Promises of Lossy Compression forScientific Applications", Smoky Mountain Computational Science and Engineering Conference (SMC), 2020.
+- [**SMC'20**] Franck Cappello, Sheng Di, Ali M. Gok. "Fulfilling the Promises of Lossy Compression forScientific Applications." Smoky Mountain Computational Science and Engineering Conference (SMC), 2020.
 - [**ICPP'20**] Zhenbo Hu, Xiangyu Zou, Wen Xia, Sian Jin, Dingwen Tao, Yang Liu, Weizhe Zhang, and Zheng Zhang. "Delta-DNN: Efficiently Compressing Deep Neural Networks via Exploiting Floats Similarity." In 49th International Conference on Parallel Processing (ICPP), Article 40, 1–12. ACM, 2020.
 - [**CLUSTER'20**] Sihuan Li, Sheng Di, Kai Zhao, Xin Liang, Zizhong Chen, and Franck Cappello. "Towards End-to-end SDC Detection for HPC Applications Equipped with Lossy Compression." In 2020 IEEE International Conference on Cluster Computing (CLUSTER). IEEE, 2019.
 - [**TPDS**] Xiangyu Zou, Tao Lu, Wen Xia, Xuan Wang, Weizhe Zhang, Haijun Zhang, Sheng Di, Dingwen Tao, and Franck Cappello. "Performance Optimization for Relative-Error-Bounded Lossy Compression on Scientific Data." IEEE Transactions on Parallel and Distributed Systems 31, no. 7 (2020): 1665-1680.
@@ -61,9 +61,30 @@ Performance on Modern GPU Architectures." In 2021 IEEE International Parallel an
 - [**HPDC'21**] Dakota Fulp, Alexandra Poulos, Robert Underwood, and Jon C. Calhoun. "ARC: An Automated Approach to Resiliency for Lossy Compressed Data via Error Correcting Codes." In Proceedings of the 30th International Symposium on High-Performance Parallel and Distributed Computing (HPDC), pp. 57–68. 2021.
 - [**SC'21**] Sihuan Li, Sheng Di, Kai Zhao, Xin Liang, Zizhong Chen, and Franck Cappello. "Resilient Error-bounded Lossy compressor for Data Transfer." In Proceedings of the 33rd ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC), St. Louis, Missouri, USA, pp. 1-14, Nov 14 - 19, 2021. 
 - [**CLUSTER'21**] Jiannan Tian, Sheng Di, Xiaodong Yu, Cody Rivera, Kai Zhao, Sian Jin, Yunhe Feng, Xin Liang, Dingwen Tao, Franck Cappello. "Optimizing Error-Bounded Lossy Compression for Scientific Data on GPUs." In 2021 IEEE International Conference on Cluster Computing (Cluster), pp. 283-203. IEEE, 2021.
+
 - [**CLUSTER'21**] Jinyang Liu, Sheng Di, Kai Zhao, Sian Jin, Dingwen Tao, Xin Liang, Zizhong Chen, Franck Cappello. "Exploring Autoencoder-Based Error-Bounded Compression for Scientific Data." In 2021 IEEE International Conference on Cluster Computing (Cluster), pp. 294-306. IEEE, 2021.
+
 - [**CLUSTER'21**] Xiaodong Yu, Sheng Di, Ali Murat Gok, Dingwen Tao, Franck Cappello. "cuZ-Checker: A GPU-Based Ultra-Fast Assessment System for Lossy Compressions." In 2021 IEEE International Conference on Cluster Computing (Cluster), pp. 307-319. IEEE, 2021.
 
-### 2022
-- [**VLDB'22**] Sian Jin, Chengming Zhang, Jiannan Tian, Yunhe Feng, Hui Guan, Guanpeng Li, Shuaiwen Leon Song, Dingwen Tao. “COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression.” In Proceedings of the 48th International Conference on Very Large Data Bases (VLDB), Australia, September 5-9, 2022.
+- [**DRBSD7**] David Krasowska, Julie Bessac, Robert Underwood, Jon C. Calhone, Sheng Di, Franck Cappello. "Exploring Lossy Compressibility through Statistical Correlations of Scientific Datasets."  in Proceedings of the 7th International Workshop on Data Reduction for Big Scientific Data (DRBSD-7), in conjunction with IEEE/ACM 29th The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2021), 2021.
 
+- [**DRBSD7**] Yuanjian Liu, Sheng Di, Kai Zhao, Sian Jin, Cheng Wang, Kyle Chard, Dingwen Tao, Ian Foster, Franck Cappello. "Understanding Effectiveness of Multi-error-bounded Lossy Compression for Preserving Ranges of Interest in Scientific Analysis." in Proceedings of the 7th International Workshop on Data Reduction for Big Scientific Data (DRBSD-7), in conjunction with IEEE/ACM 29th The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2021), 2021. 
+
+- [**DRBSD7**] Robert Underwood, Victoriana Malvoso, Jon C. Calhone, Sheng Di, Franck Cappello. "Productive and Performant Generic Lossy Data Compression with LibPressio." in Proceedings of the 7th International Workshop on Data Reduction for Big Scientific Data (DRBSD-7), in conjunction with IEEE/ACM 29th The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2021), 2021.
+
+- [**HPEC'21] Ruiwen Shan, Sheng Di, Jon C. Calhoun, Franck Cappello. "Towards Combining Error-bounded Lossy Compression and Cryptography for Scientific Data." in IEEE High Performance Extreme Computing (IEEE HPEC2021), 2021.
+
+### 2022
+- [**VLDB'22**] Sian Jin, Chengming Zhang, Jiannan Tian, Yunhe Feng, Hui Guan, Guanpeng Li, Shuaiwen Leon Song, Dingwen Tao. "COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression." In Proceedings of the 48th International Conference on Very Large Data Bases (VLDB), Australia, September 5-9, 2022.
+X. Yu, S. Di, K. Zhao, J. Tian, D. Tao, X. Liang, F. Cappello, Ultra-fast Error-bounded Lossy Compression for Scientific Dataset, ACM HPDC22
+- [**ICDE'22**] Sian Jin, Sheng Di, Suren Byna, Dingwen Tao, Franck Cappello. "Significantly Improving Prediction-Based Lossy Compression Via Ratio-Quality Modelin." In 2022 IEEE International Conference on Data Engineering (ICDE), 2022.
+
+- [**ICDE'22**] Kai Zhao, Sheng Di, Danny Perez, Xin Liang, Zizhong Chen, Franck Cappello. "MDZ: An Efficient Error-bounded Lossy Compressor for Molecular Dynamics Simulations of Materials." In 2022 IEEE International Conference on Data Engineering (ICDE), 2022.
+
+- [**HiPC'22**] Yuanjian Liu, Sheng Di, Kai Zhao, Sian Jin, Cheng Wang, Kyle Chard, Ian Foster, Dingwen Tao, Frank Cappello. "Optimizing Multi-Range based Error-Bounded Lossy Compression for Scientific Datasets." In 2021 IEEE 28th International Conference on High Performance Computing, Data, and Analytics (HiPC), 2021.
+
+- [**TPDS'22**] Robert Underwood, Jon C. Calhoun, Sheng Di, Amy Apon, Franck Cappello. "OptZConfig: Efficient Parallel Optimization of Lossy Compression Configuration." in IEEE Transactions on Distributed and Computer Systems (TPDS), 2022.
+
+- [**IPDPS'22**] Cody Rivera, Sheng Di, Xiaoding Yu, Jiannan Tian, Dingwen Tao, and Franck Cappello. "Optimizing Huffman Decoding for Error-Bounded Lossy Compression on GPUs." in Proceedings of the 36th IEEE International Parallel and Distributed Processing Symposium (IPDPS2022), Lyon, France, May 30-June 3, 2022.
+
+- [**HPDC'22**] Xiaodong Yu, Sheng Di, Kai Zhao, Jiannan Tian, Dingwen Tao, Xin Liang, Franck Cappello. "Ultra-fast Error-bounded Lossy Compression for Scientific Dataset." 31st International Symposium on High-Performance Parallel and Distributed Computing (ACM HPDC22), 2022.
