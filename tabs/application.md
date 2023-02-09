@@ -10,7 +10,8 @@ title: Application Domains
 - <a href="#md" font-size="1.5em">Molecular Dynamics</a> 
 - <a href="#chemistry" font-size="1.5em">Quantum Chemistry</a>
 - <a href="#quantum" font-size="1.5em">Quantum Circuit Simulation</a> 
-- <a href="#seismic" font-size="1.5em">Seismic Imaging</a> 
+- <a href="#seismic" font-size="1.5em">Seismic Imaging</a>
+- <a href="#combustion" font-size="1.5em">Combustion</a>
 
 <div id="climate"><h3>Climate</h3></div>
 
@@ -71,3 +72,11 @@ Multiple important quantum applications with different program characteristics a
 <img width="300" img align="right" src="https://user-images.githubusercontent.com/5705572/122562619-1ff63400-cff8-11eb-8fd3-8991e9d9ebf4.jpeg">
 
 Reverse Time Migration (RTM) application is a preferred solution for modeling and imaging seismic data in areas of complex wave phenomena for petroleum (oil and gas) industry. It is able to handle the most severe combinations of structural dip with high velocity contrast, conditions common in salt basins and other geologic basins with complex structures and velocity distributions. This makes it popular in areas like the deep-water Gulf of Mexico, offshore Brazil, and the North Sea, where salt structures severely distort propagating wavefronts and images. RTM is able to construct images using all possible arrivals, including caustic and prismatic waves, and can handle extreme lateral velocity variations without any dip limitations.
+
+<div id="combustion"><h3>Combustion</h3></div>
+
+<img width="300" img align="right" src="https://user-images.githubusercontent.com/5705572/217690554-f079c444-a506-4525-8bb9-6156adaabb87.gif">
+
+Combustion is a chemical reaction in which a hydrocarbon fuel reacts with an oxidant to form products, accompanied with the release of energy in the form of heat. Being the integral part of various engineering applications like: internal combustion engines, aircraft engines, rocket engines, furnaces, and power station combustors, combustion manifests itself as a wide domain during the design, analysis and performance characteristics stages of the above-mentioned applications.[1] With the added complexity of chemical kinetics and achieving reacting flow mixture environment, proper modeling physics has to be incorporated during computational fluid dynamic (CFD) simulations of combustion. 
+
+[BLASTNet](https://blastnet.github.io/index.html) is an affordable weakly centralized framework that combines the use of lossy compression algorithms such as SZ with public open-source data repositories and community involvement for sharing massive and diverse deep learning training data for combustion. In particular, this framework is targeted towards improving the diversity of accessible scientific training data for ML, and thus serves a distinct purpose when compared to existing high-fidelity database. 
