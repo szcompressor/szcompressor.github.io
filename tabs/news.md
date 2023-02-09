@@ -2,10 +2,14 @@
 title: News
 ---
 
+- 11/15/2022: David Krasowska won the 1st Place Winnder of the ACM Student Research Competition (Graduate) at SC22.
+- 11/15/2022: Milan Shah won the 2nd Place of the ACM Student Research Competition (Undergraduate) at SC22.
+- 10/25/2022: A new version of [SZ](https://github.com/szcompressor/SZ/releases/tag/v2.1.12.5) has been released. 
+- 10/18/2022: A new version of [cuSZ](https://github.com/szcompressor/cuSZ/releases/tag/v0.3.1) has been released. 
 - 02/28/2021: A new version of [cuSZ](https://github.com/szcompressor/cuSZ/releases/tag/v0.3-rc1) has been released. 
 - 01/21/2021: A new version of [SZ3](https://github.com/szcompressor/SZ3) has been released.
 - 01/07/2021: Our [MMD-SZ paper (aka. MDZ)](https://github.com/szcompressor/MMD-SZ) is accepted by ICDE2022.
-- 11/18/2021: cuSZ has been selected as the 3rd Place Winnder of the ACM Student Research Competition!
+- 11/18/2021: cuSZ has been selected as the 3rd Place Winner of the ACM Student Research Competition (Graduate) at SC21!
 
 <img width="350" img align="top" src="https://user-images.githubusercontent.com/5705572/142637837-0e654084-145e-4daa-9769-765db0e6852b.png" border="0">
 
