@@ -1,7 +1,10 @@
 ---
 title: News
 ---
-
+- 05/19/2023: Our [FAZ paper] receives the best-paper award nomination in ICS2023. 
+- 05/19/2023: Three papers have been accepted by ICS2023.
+- 05/19/2023: QoZ [QoZ: Quaility-oriented lossy compressor](https://github.com/szcompressor/QoZ) is released. 
+- 05/19/2023: Our [FZ-GPU paper](https://github.com/szcompressor/FZ-GPU) is accepted by HPDC2022.
 - 11/15/2022: David Krasowska won the 1st Place Winnder of the ACM Student Research Competition (Graduate) at SC22.
 - 11/15/2022: Milan Shah won the 2nd Place of the ACM Student Research Competition (Undergraduate) at SC22.
 - 10/25/2022: A new version of [SZ](https://github.com/szcompressor/SZ/releases/tag/v2.1.12.5) has been released. 
