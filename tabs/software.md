@@ -4,6 +4,8 @@ title: Software
 
 <div id="instrument"><h3>SZ Software</h3></div>
 
+- [FZ-GPU]((https://github.com/szcompressor/FZ-GPU): A fast and high-ratio lossy compressor for scientific computing applications on GPU
+- [QoZ](https://github.com/szcompressor/QoZ): Quality-oriented error-bounded lossy compressor
 - [SZ 2](https://github.com/szcompressor/SZ): CPU version of SZ v2.1.
 - [SZ 1](https://github.com/szcompressor/SZ): CPU version of SZ v1.4 (integrated in v2.1; can be turned on in sz.config).
 - [cuSZ](https://github.com/szcompressor/cuSZ): CUDA version of SZ for GPUs.
