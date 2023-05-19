@@ -28,7 +28,7 @@ The current structure of the SZ framework is represented by the following hierar
 | kSZ [4]        | Generic: GPU version portable across vendors. Can be used on any dataset.            | vecSZ [6]    | Generic: Version for Single Instruction Multiple Data instruction set in CPU. Can be used on any dataset. |
 | Interp-SZ [8] | Specialized: Optimized for seismic imaging (oil and gas).                            | cpSZ [13]     | Specialized: Optimized for fluid flows.                                                                   |
 | Pastri-SZ [9] | Specialized: Optimized for quantum chemistry.                                        | DeepSZ [14]  | Specialized: Optimized for Deep Learning.                                                                 |
-| QoZ [15] | Dynamic Quality Metric Oriented Error Bounded Lossy Compressor | | |
+| QoZ [15] | Dynamic Quality Metric Oriented Error Bounded Lossy Compressor | FZ-GPU [16] | A Fast and High-Ratio Lossy Compressor for Scientific Data on GPUs|
 
 - [1] SZ1.4/2.1: [https://github.com/szcompressor/SZ](https://github.com/szcompressor/SZ).
 - [2] SZ3: [https://github.com/szcompressor/SZ3](https://github.com/szcompressor/SZ3).
@@ -45,3 +45,4 @@ The current structure of the SZ framework is represented by the following hierar
 - [13] Xin Liang, Hanqi Guo, Sheng Di, Franck Cappello, Mukund Raj, Chunhui Liu, Kenji Ono, Zizhong Chen, and Tom Peterka. “Toward Feature-Preserving 2D and 3D Vector Field Compression.” In PacificVis, pp. 81-90. 2020. [https://github.com/szcompressor/cpSZ](https://github.com/szcompressor/cpSZ)
 - [14] Sian Jin, Sheng Di, Xin Liang, Jiannan Tian, Dingwen Tao, and Franck Cappello. “Deepsz: A novel framework to compress deep neural networks by using error-bounded lossy compression.” In Proceedings of the 28th International Symposium on High-Performance Parallel and Distributed Computing (HPDC), pp. 159-170. 2019. [https://github.com/szcompressor/deepsz](https://github.com/szcompressor/deepsz)
 - [15] Jinyang Liu, Sheng Di, Kai Zhao, Xin Liang, Zizhong Chen, Franck Cappello. "Dynamic Quality Metric Oriented Error Bounded Lossy Compression for Scientific Datasets." In International Conference for High Performance Computing, Networking, Storage and Analysis (SC2022), 2022. [https://github.com/szcompressor/QoZ](https://github.com/szcompressor/QoZ)
+- [16] Boyuan Zhang, Jiannan Tian, Sheng Di, Xiaodong Yu, Yunhe Feng, Xin Liang, Dingwen Tao, and Franck Cappello. "FZ-GPU: A Fast and High-Ratio Lossy Compressor for Scientific Computing Applications on GPUs." In Proceedings of the 32nd International Symposium on High-Performance Parallel and Distributed Computing (HPDC), 2023. [https://github.com/szcompressor/FZ-GPU](https://github.com/szcompressor/FZ-GPU)
