@@ -1,6 +1,9 @@
 ---
 title: News
 ---
+- 11/16/2024: A new version of [cuSZp v2] (https://github.compressor/szcompressor/cuSZp) has been released.
+- 11/16/2024: Our [FRSZ2 paper] receives the best-paper award in DRBSD10 of SC2024.
+- 11/16/2024: Our [cuSZp2 paper] receives the best-paper finalist in SC2024.
 - 05/19/2023: Our [FAZ paper] receives the best-paper award nomination in ICS2023. 
 - 05/19/2023: Three papers have been accepted by ICS2023.
 - 05/19/2023: QoZ [QoZ: Quaility-oriented lossy compressor](https://github.com/szcompressor/QoZ) is released. 
