@@ -82,7 +82,7 @@ Performance on Modern GPU Architectures." 2021 IEEE International Parallel and D
 - [**TPDS**] Robert Underwood, Jon C. Calhoun, Sheng Di, Amy Apon, Franck Cappello. "OptZConfig: Efficient Parallel Optimization of Lossy Compression Configuration." IEEE Transactions on Distributed and Computer Systems (TPDS), 2022.
 - [**TPDS**] Yuanjian Liu, Sheng Di, Kai Zhao, Sian Jin, Cheng Wang, Kyle Chard, Dingwen Tao, Ian Foster, and Franck Cappello. “Optimizing Error-Bounded Lossy Compression for Scientific Data with Diverse Constraints.” IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022.
 
-###2023
+### 2023
 - [**HiPC'23**] Arham Khan, Sheng Di, Kai Zhao, Jinyang Liu, Kyle Chaid, Ian Foster, Franck Cappello, "SECRE: Surrogate-based Error-controlled Lossy Compression Ratio Estimation Framework", in 30th edition of the IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC2023), 2023.
 - [**HiPC'23**] Pu Jiao, Sheng Di, Jinyang Liu, Xin Liang, Franck Cappello, "Characterization and Detection of Artifacts for Error-controlled Lossy Compressors", in 30th edition of the IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC2023), 2023.
 - [**SRN'23**] Robert Underwood, Chun Hong Yoon, Ali M. Gok, Sheng Di, Franck Cappello, "ROIBIN-SZ: Fast and Science-Preserving Compression for Serial Crystallography", Journal of Synchrotron Radiation News (SRN), 2023.
@@ -106,7 +106,7 @@ Performance on Modern GPU Architectures." 2021 IEEE International Parallel and D
 - [**VLDB'23**] Pu Jiao, Sheng Di, Hanqi Guo, Kai Zhao, Jiannan Tian, Dingwen Tao, Xin Liang, Franck Cappello, "Toward Quantity-of-Interest Preserving Lossy Compression for Scientific Data", in 49th International Conference on Very Large Database (VLDB 2023), 2023, Canada.
 - [**ICDE'23**] Md Hasanur Rahman, Sheng Di, Kai Zhao, Robert Underwood, Guanpeng Li, Franck Cappello, "A Feature-Driven Fixed-Ratio Lossy Compression Framework for Real-World Scientific Datasets", in Proceeding of the 39th IEEE International Conference on Data Engineering (ICDE2023), 2023. 
 
-###2024
+### 2024
 - [**FGCS'24**] Franck Cappello, Mario Acosta, Emmanuel Agullo, Hartwig Anzt, Jon Calhoun, Sheng Di, Luc Giraud, Thomas Grutzmacher, Sian Jin, Kentaro Sano, Kento Sato, Amarjit Singh, Dingwen Tao, Jiannan Tian, Tomohiro Ueno, Robert Underwood, Federic Vivien, Xavier Yepes, Kazutomo Yoshii, Boyuan Zhang "Multifacets of lossy compression for scientific data in the Joint-Laboratory of Extreme Scale Computing", International Journal of Future Generation Computer Systems (FGCS), 2024.  
 - [**DRBSD'24**] Tripti Agarwal, Sheng Di, Jiajun Huang, Yafan Huang, Ganesh Gopalakrishnan, Robert Underwood, Kai Zhao, Xin Liang, Guanpeng Li, and Franck Cappello, "SZOps: Scalar Operations for Error-bounded Lossy Compressor for Scientific Data", IEEE/ACM The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data, in conjunction with The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2024),2024.  
 - [**DRBSD'24**] Thomas Grutzmacher, Robert Underwood, Sheng Di, Franck Cappello, and Hartwig Anzt, "FRSZ2 for In-Register Block Compression Inside GMRES on GPUs", IEEE/ACM The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data, in the conjunction with The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2024), 2024, best paper award.  
