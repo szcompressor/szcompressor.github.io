@@ -6,11 +6,12 @@ title: Software
 
 - [FZ-GPU]((https://github.com/szcompressor/FZ-GPU): A fast and high-ratio lossy compressor for scientific computing applications on GPU
 - [QoZ](https://github.com/szcompressor/QoZ): Quality-oriented error-bounded lossy compressor
+- [QoZ2.0](https://github.com/szcompressor/QoZ/tree/2.0): Quality-oriented error-bounded lossy compressor version 2.0
 - [SZ 2](https://github.com/szcompressor/SZ): CPU version of SZ v2.1.
 - [SZ 1](https://github.com/szcompressor/SZ): CPU version of SZ v1.4 (integrated in v2.1; can be turned on in sz.config).
 - [cuSZ](https://github.com/szcompressor/cuSZ): CUDA version of SZ for GPUs.
 - [kSZ](https://github.com/szcompressor/kokkosSZ): A portable accelerator implementation of SZ using Kokkos programming model.
-- [Interp-SZ](https://github.com/szcompressor/SZ3_Private): Spline-interpolation based error-bounded compressor. [need particular permission to access]
+- [Interp-SZ](https://github.com/szcompressor/SZ3): Spline-interpolation based error-bounded compressor. 
 - [DeepSZ](https://github.com/szcompressor/DeepSZ): Deep neural network (DNN) model compressor.
 - [SZauto](https://github.com/szcompressor/SZauto): SZ with automatic parameter optimization.
 - [waveSZ](https://github.com/szcompressor/SZ_HLS): Vivado HLS implementation of SZ for Xilinx FPGAs.
@@ -18,7 +19,7 @@ title: Software
 - [SZ3](https://github.com/szcompressor/SZ3): SZ with loosely-coupled stages support easy custimization.
 - [Pastri-SZ](https://github.com/szcompressor/SZ): A lossy compressor optimized for GAMESS Two-electronic integrals datasets. 
 - [Roibin-SZ](https://github.com/szcompressor/SZ): Roibin-SZ - customized for EXAFEL datasets. (see example/roibin_example in SZ2.1 for details).
-- [MMD-SZ](https://github.com/szcompressor/MMD-SZ): A lossy compressor opotimized for Materials Molecular Dynamics Simulation Datasets.
+- [MMD-SZ, a.k.a. MDZ](https://github.com/szcompressor/MMD-SZ): A lossy compressor opotimized for Materials Molecular Dynamics Simulation Datasets.
 - [SZx](https://github.com/szcompressor/SZx): A superfast error-bounded compressor. [need particular permission to access]
 - [cpSZ](https://github.com/szcompressor/cpSZ): An SZ-based lossy compressor that preserves critical point feature for vector fields.
 - [QCAT](https://github.com/szcompressor/qcat): Quick Compression Analysis Toolkit.
